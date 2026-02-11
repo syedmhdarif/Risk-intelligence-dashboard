@@ -1,16 +1,15 @@
 {
-  "headline": "Tropical Cyclone GEZANI-26 at Red Alert \u2014 69 Active Events Across 33 Countries",
-  "summary": "The global disaster landscape is dominated by widespread wildfire activity across Sub-Saharan Africa, with 43 active fires. Tropical Cyclone GEZANI-26 remains the most critical event, affecting 1.754 million people in Madagascar and Mozambique. Long-duration droughts continue in Brazil, East Africa, and Central-South Asia.",
+  "headline": "69 Wildfire Events Across 33 Regions (2022\u20132026)",
+  "summary": "This dataset documents 69 wildfire events from 2022-09-21 to 2026-02-10 across 33 distinct regions. 1 critical (red) and 3 elevated (orange) alerts were recorded. Top affected regions: Central African Republic, Sudan, Argentina.",
   "severityLevel": "red",
   "keyInsights": [
-    "Critical alert: Tropical Cyclone in Madagascar, Mozambique with 1.754 Million population exposed.",
-    "Wildfire activity dominates with 43 events, concentrated in Central African Republic (19 events) and Sudan.",
-    "Long-duration drought conditions persist across 3 regions at elevated (orange) alert level, spanning multiple continents.",
-    "Monitoring 33 countries across 26 distinct activity days. Most recent events recorded on 2026-02-10.",
-    "Flood events across 9 countries have displaced approximately 60,536 people."
+    "Central African Republic leads with 19 events (27.5% of total), followed by Sudan (13) and Argentina (2).",
+    "1 critical-level events identified, the most severe being Red notification for tropical cyclone GEZANI-26. Population affected by Category.",
+    "3 elevated (orange) alert events requiring close monitoring across multiple regions.",
+    "94.2% of events are advisory (green) level, but the 4 elevated-or-higher events represent significant cumulative risk."
   ],
-  "riskScore": "100/100",
-  "generatedAt": "2026-02-11T05:27:26.154116Z",
+  "riskScore": "23/100",
+  "generatedAt": "2026-02-11T07:47:42Z",
   "metadata": {
     "totalEvents": 69,
     "dateRange": {
@@ -27,8 +26,7 @@
     "severityDistribution": {
       "red": 1,
       "orange": 3,
-      "green": 65,
-      "neutral": 0
+      "green": 65
     }
   }
 }

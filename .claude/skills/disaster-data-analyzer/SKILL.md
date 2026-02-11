@@ -6,7 +6,7 @@ description: >
   or convert disaster/risk CSV data into dashboard-ready JSON. Also use it when the user
   mentions uploading new data, refreshing the dashboard data, generating clean datasets,
   or anything related to turning raw disaster information into structured analysis output.
-  The output goes into documents/cleanDataset/ and powers all dashboard segments.
+  The output goes into documents/cleanDataset/ and is automatically published to public/data/ so it appears in the dashboard dropdown.
 ---
 
 # Disaster Data Analyzer
@@ -147,12 +147,28 @@ as `DisasterEvent[]`. These populate the Recent Events table on the dashboard.
 ### Step 4: Save and confirm
 
 Save all five JSON files to the dataset subfolder (e.g. `documents/cleanDataset/GDACS-RSS-Information/`).
+
+### Step 5: Publish to dashboard
+
+Run the prebuild script to copy the dataset to `public/data/` and update the manifest:
+
+```bash
+node scripts/prebuild.mjs
+```
+
+This copies all ready datasets from `documents/cleanDataset/` to `public/data/` and
+regenerates `public/data/datasets.json`, making the dataset immediately available in the
+dashboard's dropdown selector.
+
+### Step 6: Report to user
+
 Report to the user:
 - How many events were processed
 - How many regions identified
 - Date range covered
 - Any data quality issues (missing fields, unparseable rows)
 - The severity level of the overall analysis
+- Confirmation that the dataset is published to `public/data/` and available in the dropdown
 
 ## Severity Classification Rules
 

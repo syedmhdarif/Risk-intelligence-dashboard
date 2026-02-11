@@ -20,7 +20,7 @@
     "alertLevel": "green",
     "populationExposed": "30 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A moderate M5.1 earthquake occurred in Vanuatu on 2025-06-30 at intermediate depth with approximately 30 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A moderate M5.1 earthquake occurred in Vanuatu on 2025-06-30 at intermediate depth with approximately 30 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": -17.4974,
@@ -104,7 +104,7 @@
     "alertLevel": "green",
     "populationExposed": "70 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.7 earthquake occurred in Indonesia on 2025-06-30 at intermediate depth with approximately 70 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.7 earthquake occurred in Indonesia on 2025-06-30 at intermediate depth with approximately 70 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": 2.0894,
@@ -118,7 +118,7 @@
     "alertLevel": "green",
     "populationExposed": "40 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.7 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 40 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.7 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 40 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": 29.2747,
@@ -132,7 +132,7 @@
     "alertLevel": "green",
     "populationExposed": "1.1 Million",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.7 earthquake occurred in Afghanistan on 2025-06-30 with approximately 1.1 Million people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.7 earthquake occurred in Afghanistan on 2025-06-30 with approximately 1.1 Million people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": 36.9444,
@@ -146,7 +146,7 @@
     "alertLevel": "green",
     "populationExposed": "10 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.6 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 10 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.6 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 10 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": 29.2972,
@@ -160,7 +160,7 @@
     "alertLevel": "green",
     "populationExposed": "510 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.5 earthquake occurred in Peru on 2025-06-30 with approximately 510 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.5 earthquake occurred in Peru on 2025-06-30 with approximately 510 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": -12.749,
@@ -174,7 +174,7 @@
     "alertLevel": "green",
     "populationExposed": "40 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.5 earthquake occurred in Taiwan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 40 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.5 earthquake occurred in Taiwan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 40 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": 23.2175,
@@ -188,7 +188,7 @@
     "alertLevel": "green",
     "populationExposed": "150 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A light M4.5 earthquake occurred in Chile on 2025-06-30 at intermediate depth with approximately 150 Thousand people within 100 km of the epicenter.",
+    "aiSummary": "A light M4.5 earthquake occurred in Chile on 2025-06-30 at intermediate depth with approximately 150 Thousand people within 100 km.",
     "date": "2025-06-30",
     "coordinates": {
       "lat": -31.9581,

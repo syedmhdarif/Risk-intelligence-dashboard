@@ -6,7 +6,7 @@
     "alertLevel": "green",
     "populationExposed": "Unknown",
     "eventType": "Wildfire",
-    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 6,967 hectares. Fire spread is being tracked via satellite monitoring.",
+    "aiSummary": "Wildfire activity in Sudan affecting approximately 6,967 hectares.",
     "date": "2026-02-10",
     "coordinates": {
       "lat": 8.17830727,
@@ -20,7 +20,7 @@
     "alertLevel": "green",
     "populationExposed": "Unknown",
     "eventType": "Earthquake",
-    "aiSummary": "A magnitude 6.2M earthquake detected in Fiji. Population exposure estimated at Unknown. Seismic monitoring continues for aftershock activity.",
+    "aiSummary": "A strong M6.2 earthquake occurred in Fiji on 2026-02-10.",
     "date": "2026-02-10",
     "coordinates": {
       "lat": -21.0396,
@@ -34,7 +34,7 @@
     "alertLevel": "green",
     "populationExposed": "230 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A magnitude 5.6M earthquake detected in Tonga. Population exposure estimated at 230 Thousand. Seismic monitoring continues for aftershock activity.",
+    "aiSummary": "A moderate M5.6 earthquake occurred in Tonga on 2026-02-10 with approximately 230 Thousand people within 100 km.",
     "date": "2026-02-10",
     "coordinates": {
       "lat": -14.97,
@@ -48,7 +48,7 @@
     "alertLevel": "green",
     "populationExposed": "Unknown",
     "eventType": "Wildfire",
-    "aiSummary": "Forest fire activity detected in Cambodia affecting approximately 5,673 hectares. Fire spread is being tracked via satellite monitoring.",
+    "aiSummary": "Wildfire activity in Cambodia affecting approximately 5,673 hectares.",
     "date": "2026-02-08",
     "coordinates": {
       "lat": 13.23540945,
@@ -62,7 +62,7 @@
     "alertLevel": "green",
     "populationExposed": "Unknown",
     "eventType": "Wildfire",
-    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,646 hectares. Fire spread is being tracked via satellite monitoring.",
+    "aiSummary": "Wildfire activity in Central African Republic affecting approximately 5,646 hectares.",
     "date": "2026-02-08",
     "coordinates": {
       "lat": 7.56420629,
@@ -76,7 +76,7 @@
     "alertLevel": "green",
     "populationExposed": "50 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A magnitude 5.7M earthquake detected in Mexico. Population exposure estimated at 50 Thousand. Seismic monitoring continues for aftershock activity.",
+    "aiSummary": "A moderate M5.7 earthquake occurred in Mexico on 2026-02-08 with approximately 50 Thousand people within 100 km.",
     "date": "2026-02-08",
     "coordinates": {
       "lat": 16.1627,
@@ -90,7 +90,7 @@
     "alertLevel": "green",
     "populationExposed": "30 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A magnitude 5.7M earthquake detected in Chile. Population exposure estimated at 30 Thousand. Seismic monitoring continues for aftershock activity.",
+    "aiSummary": "A moderate M5.7 earthquake occurred in Chile on 2026-02-08 with approximately 30 Thousand people within 100 km.",
     "date": "2026-02-08",
     "coordinates": {
       "lat": -20.0999,
@@ -104,7 +104,7 @@
     "alertLevel": "green",
     "populationExposed": "20 Thousand",
     "eventType": "Earthquake",
-    "aiSummary": "A magnitude 5.5M earthquake detected in Cuba. Population exposure estimated at 20 Thousand. Seismic monitoring continues for aftershock activity.",
+    "aiSummary": "A moderate M5.5 earthquake occurred in Cuba on 2026-02-08 with approximately 20 Thousand people within 100 km.",
     "date": "2026-02-08",
     "coordinates": {
       "lat": 19.8899,
@@ -118,7 +118,7 @@
     "alertLevel": "green",
     "populationExposed": "0 deaths",
     "eventType": "Flood",
-    "aiSummary": "Flooding reported in South Africa with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "aiSummary": "Flooding reported in South Africa. Population exposed: 0 deaths. Monitoring for further escalation.",
     "date": "2026-02-08",
     "coordinates": {
       "lat": -34.3409192,
@@ -132,7 +132,7 @@
     "alertLevel": "green",
     "populationExposed": "Unknown",
     "eventType": "Wildfire",
-    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 7,715 hectares. Fire spread is being tracked via satellite monitoring.",
+    "aiSummary": "Wildfire activity in Central African Republic affecting approximately 7,715 hectares.",
     "date": "2026-02-07",
     "coordinates": {
       "lat": 7.375287487,
@@ -146,7 +146,7 @@
     "alertLevel": "red",
     "populationExposed": "1.754 Million",
     "eventType": "Tropical Cyclone",
-    "aiSummary": "An intense tropical cyclone with maximum wind speeds of 211 km/h affecting Madagascar, Mozambique. Estimated 1.754 Million population exposed to Category 1+ winds. Critical humanitarian situation requiring immediate response.",
+    "aiSummary": "Tropical cyclone with max winds of 211 km/h affecting Madagascar, Mozambique. Population exposed: 1.754 Million. Critical situation requiring immediate response.",
     "date": "2026-02-06",
     "coordinates": {
       "lat": -18.05,
@@ -160,7 +160,7 @@
     "alertLevel": "green",
     "populationExposed": "Unknown",
     "eventType": "Wildfire",
-    "aiSummary": "Forest fire activity detected in Guinea affecting approximately 9,166 hectares. Fire spread is being tracked via satellite monitoring.",
+    "aiSummary": "Wildfire activity in Guinea affecting approximately 9,166 hectares.",
     "date": "2026-02-06",
     "coordinates": {
       "lat": 9.450058904,
@@ -174,7 +174,7 @@
     "alertLevel": "green",
     "populationExposed": "7K",
     "eventType": "Tropical Cyclone",
-    "aiSummary": "An intense tropical cyclone with maximum wind speeds of 148 km/h affecting Australia. Estimated 7K population exposed to Category 1+ winds. Monitoring ongoing.",
+    "aiSummary": "Tropical cyclone with max winds of 148 km/h affecting Australia. Population exposed: 7K. Monitoring ongoing.",
     "date": "2026-02-06",
     "coordinates": {
       "lat": -25.3,
@@ -188,7 +188,7 @@
     "alertLevel": "green",
     "populationExposed": "0 deaths",
     "eventType": "Flood",
-    "aiSummary": "Flooding reported in Italy with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "aiSummary": "Flooding reported in Italy. Population exposed: 0 deaths. Monitoring for further escalation.",
     "date": "2026-02-06",
     "coordinates": {
       "lat": 41.9801648,
@@ -202,7 +202,7 @@
     "alertLevel": "green",
     "populationExposed": "3 deaths",
     "eventType": "Flood",
-    "aiSummary": "Flooding reported in Syria with 3 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "aiSummary": "Flooding reported in Syria. Population exposed: 3 deaths. Monitoring for further escalation.",
     "date": "2026-02-06",
     "coordinates": {
       "lat": 35.5200185,

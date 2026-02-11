@@ -164,7 +164,10 @@ def detect_csv_format(rows: list[dict]) -> str:
     # GDACS RSS has 'id', 'title', 'summary', 'event_type', 'geo_lat', 'geo_long'
     if "id" in first_row and "title" in first_row and "event_type" in first_row:
         return "gdacs_rss"
-    # Alternative format has 'description', 'alertlevel', 'Earthquake Magnitude (M)'
+    # Eruption format has 'description', 'alertlevel', 'Max Volc. Explosivity Index VEI'
+    if "description" in first_row and "alertlevel" in first_row and "Max Volc. Explosivity Index VEI" in first_row:
+        return "gdacs_eruption"
+    # Alternative earthquake format has 'description', 'alertlevel', 'Earthquake Magnitude (M)'
     if "description" in first_row and "alertlevel" in first_row:
         return "gdacs_alt"
     return "unknown"
@@ -214,8 +217,52 @@ def build_parsed_events(rows: list[dict]) -> list[dict]:
     csv_format = detect_csv_format(rows)
 
     for idx, row in enumerate(rows):
-        if csv_format == "gdacs_alt":
-            # Alternative format: description, alertlevel, fromdate, todate, etc.
+        if csv_format == "gdacs_eruption":
+            # Eruption format: description, alertlevel, VEI, population columns, GDACS ID
+            title = row.get("description", "").strip()
+            if not title:
+                continue
+
+            gdacs_id = row.get("GDACS ID", "").strip()
+            event_id = gdacs_id if gdacs_id else f"VO{idx + 1:06d}"
+            alert_level_raw = row.get("alertlevel", "").strip().lower()
+            alert_level = alert_level_raw if alert_level_raw in ("red", "orange", "green") else extract_alert_level(title)
+            from_date = parse_date(row.get("fromdate", ""))
+            to_date = parse_date(row.get("todate", ""))
+            lat = safe_float(row.get("latitude", "0"))
+            lng = safe_float(row.get("longitude", "0"))
+            vei = safe_float(row.get("Max Volc. Explosivity Index VEI", "-1"))
+            pei = safe_float(row.get("Population Exposure Index PEI", "-1"))
+            pop_30km = safe_float(row.get("Exposed Population 30km", "-1"))
+            pop_100km = safe_float(row.get("Exposed Population 100km", "-1"))
+            # Use 100km population if available, fall back to 30km
+            pop_exposed_raw = pop_100km if pop_100km > 0 else pop_30km
+
+            event = {
+                "id": event_id,
+                "eventName": title,
+                "country": row.get("country", "").strip(),
+                "iso3": row.get("iso3", "").strip() if row.get("iso3", "").strip() != "-1" else "",
+                "alertLevel": alert_level,
+                "populationExposed": format_population(pop_exposed_raw),
+                "eventType": "Volcano",
+                "aiSummary": "",
+                "date": from_date or "",
+                "endDate": to_date or "",
+                "coordinates": {"lat": lat, "lng": lng} if lat != 0 or lng != 0 else None,
+                "severityUnit": "VEI",
+                "severityValue": vei if vei >= 0 else 0,
+                "source": row.get("source", "").strip(),
+                "link": "",
+                "rawSummary": "",
+                "rawTitle": title,
+                "vei": vei if vei >= 0 else None,
+                "pei": pei if pei >= 0 else None,
+                "populationExposed30km": format_population(pop_30km),
+                "populationExposed100km": format_population(pop_100km),
+            }
+        elif csv_format == "gdacs_alt":
+            # Alternative earthquake format: description, alertlevel, fromdate, todate, etc.
             title = row.get("description", "").strip()
             if not title:
                 continue
