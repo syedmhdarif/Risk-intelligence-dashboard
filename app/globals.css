@@ -1,26 +1,98 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Neo Command Center — Background Colors */
+  --background: #0B1220;
+  --surface: #111827;
+  --card-bg: #0F172A;
+  --card-border: rgba(255, 255, 255, 0.06);
+
+  /* Foreground */
+  --foreground: #E2E8F0;
+  --muted: #64748B;
+
+  /* Accent Colors */
+  --accent: #00E5FF;
+  --accent-secondary: #6366F1;
+
+  /* Alert Severity Colors */
+  --severity-red: #FF3B3B;
+  --severity-orange: #FFB020;
+  --severity-yellow: #FFD166;
+  --severity-green: #00D26A;
+  --severity-neutral: #3B82F6;
+
+  /* Glow tokens */
+  --glow-red: 0 0 20px rgba(255, 59, 59, 0.3), 0 0 40px rgba(255, 59, 59, 0.1);
+  --glow-accent: 0 0 20px rgba(0, 229, 255, 0.15), 0 0 40px rgba(0, 229, 255, 0.05);
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-card-bg: var(--card-bg);
+  --color-card-border: var(--card-border);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-secondary: var(--accent-secondary);
+  --color-severity-red: var(--severity-red);
+  --color-severity-orange: var(--severity-orange);
+  --color-severity-yellow: var(--severity-yellow);
+  --color-severity-green: var(--severity-green);
+  --color-severity-neutral: var(--severity-neutral);
+  --font-sans: var(--font-space-grotesk);
+  --font-mono: var(--font-jetbrains-mono);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-space-grotesk), system-ui, sans-serif;
+}
+
+/* ── Shimmer skeleton loading ── */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--card-bg) 25%,
+    var(--surface) 50%,
+    var(--card-bg) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.8s ease-in-out infinite;
+  border-radius: 8px;
+}
+
+/* ── Critical pulse glow ── */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 15px rgba(255, 59, 59, 0.2), 0 0 30px rgba(255, 59, 59, 0.05); }
+  50% { box-shadow: 0 0 25px rgba(255, 59, 59, 0.4), 0 0 50px rgba(255, 59, 59, 0.1); }
+}
+
+.critical-pulse {
+  animation: pulse-glow 2.5s ease-in-out infinite;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.15);
 }

@@ -1,0 +1,233 @@
+[
+  {
+    "region": "Central African Republic",
+    "eventCount": 19,
+    "highestSeverity": "green",
+    "riskScore": 74,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Sudan",
+    "eventCount": 13,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Ethiopia",
+    "eventCount": 2,
+    "highestSeverity": "orange",
+    "riskScore": 66,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Afghanistan",
+    "eventCount": 1,
+    "highestSeverity": "orange",
+    "riskScore": 58,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Brazil",
+    "eventCount": 1,
+    "highestSeverity": "orange",
+    "riskScore": 58,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Colombia",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 52,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "South Africa",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 51,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Madagascar",
+    "eventCount": 1,
+    "highestSeverity": "red",
+    "riskScore": 50,
+    "dominantDisasterType": "Tropical Cyclone"
+  },
+  {
+    "region": "Argentina",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Australia",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 45,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Mexico",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 45,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Democratic Republic of Congo",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 45,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Angola",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 44,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Peru",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 44,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Canada",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Drought"
+  },
+  {
+    "region": "Senegal",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Chad",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 39,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Benin",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 38,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Ghana",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 38,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Guinea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 38,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Cambodia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 37,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Mali",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 37,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Nigeria",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 37,
+    "dominantDisasterType": "Wildfire"
+  },
+  {
+    "region": "Chile",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 22,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cuba",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 22,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Fiji",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 22,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tonga",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 22,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Italy",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 18,
+    "dominantDisasterType": "Flood"
+  },
+  {
+    "region": "Philippines",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 18,
+    "dominantDisasterType": "Flood"
+  },
+  {
+    "region": "Portugal",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 18,
+    "dominantDisasterType": "Flood"
+  },
+  {
+    "region": "Romania",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 18,
+    "dominantDisasterType": "Flood"
+  },
+  {
+    "region": "Spain",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 18,
+    "dominantDisasterType": "Flood"
+  },
+  {
+    "region": "Syria",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 18,
+    "dominantDisasterType": "Flood"
+  }
+]

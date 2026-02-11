@@ -1,0 +1,34 @@
+{
+  "headline": "Tropical Cyclone GEZANI-26 at Red Alert \u2014 69 Active Events Across 33 Countries",
+  "summary": "The global disaster landscape is dominated by widespread wildfire activity across Sub-Saharan Africa, with 43 active fires. Tropical Cyclone GEZANI-26 remains the most critical event, affecting 1.754 million people in Madagascar and Mozambique. Long-duration droughts continue in Brazil, East Africa, and Central-South Asia.",
+  "severityLevel": "red",
+  "keyInsights": [
+    "Critical alert: Tropical Cyclone in Madagascar, Mozambique with 1.754 Million population exposed.",
+    "Wildfire activity dominates with 43 events, concentrated in Central African Republic (19 events) and Sudan.",
+    "Long-duration drought conditions persist across 3 regions at elevated (orange) alert level, spanning multiple continents.",
+    "Monitoring 33 countries across 26 distinct activity days. Most recent events recorded on 2026-02-10.",
+    "Flood events across 9 countries have displaced approximately 60,536 people."
+  ],
+  "riskScore": "100/100",
+  "generatedAt": "2026-02-11T05:27:26.154116Z",
+  "metadata": {
+    "totalEvents": 69,
+    "dateRange": {
+      "from": "2022-09-21",
+      "to": "2026-02-10"
+    },
+    "eventTypes": {
+      "Tropical Cyclone": 2,
+      "Drought": 10,
+      "Wildfire": 43,
+      "Earthquake": 5,
+      "Flood": 9
+    },
+    "severityDistribution": {
+      "red": 1,
+      "orange": 3,
+      "green": 65,
+      "neutral": 0
+    }
+  }
+}

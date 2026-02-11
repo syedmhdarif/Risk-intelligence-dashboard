@@ -1,0 +1,383 @@
+[
+  {
+    "date": "2022-09-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 1,
+      "green": 0
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1016449"
+    ]
+  },
+  {
+    "date": "2024-10-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 1,
+      "green": 0
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1017535"
+    ]
+  },
+  {
+    "date": "2025-04-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 1,
+      "green": 0
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1017863"
+    ]
+  },
+  {
+    "date": "2025-06-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1017944"
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1018139"
+    ]
+  },
+  {
+    "date": "2025-08-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1018093"
+    ]
+  },
+  {
+    "date": "2025-09-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1018196"
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1018299"
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Drought",
+    "eventIds": [
+      "DR1018344",
+      "DR1018327"
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Flood",
+    "eventIds": [
+      "FL1103727"
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Flood",
+    "eventIds": [
+      "FL1103732"
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027338"
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027246",
+      "WF1027355"
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027332"
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027308",
+      "WF1027337"
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027349",
+      "WF1027319"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "eventCount": 10,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 10
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027331",
+      "WF1027326",
+      "WF1027318",
+      "WF1027340",
+      "WF1027329",
+      "WF1027335",
+      "WF1027361",
+      "WF1027351",
+      "WF1027348",
+      "FL1103749"
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "eventCount": 3,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 3
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027325",
+      "WF1027350",
+      "WF1027334"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "eventCount": 7,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 7
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027322",
+      "WF1027347",
+      "WF1027342",
+      "WF1027346",
+      "WF1027368",
+      "WF1027343",
+      "WF1027356"
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "eventCount": 6,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 6
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027365",
+      "WF1027339",
+      "WF1027344",
+      "WF1027354",
+      "WF1027364",
+      "FL1103753"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "eventCount": 4,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 4
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027363",
+      "WF1027358",
+      "WF1027353",
+      "WF1027352"
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "eventCount": 3,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 3
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027357",
+      "WF1027360",
+      "FL1103758"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "eventCount": 6,
+    "severityBreakdown": {
+      "red": 1,
+      "orange": 0,
+      "green": 5
+    },
+    "dominantType": "Flood",
+    "eventIds": [
+      "TC1001256",
+      "WF1027362",
+      "TC1001257",
+      "FL1103754",
+      "FL1103755",
+      "FL1103756"
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Wildfire",
+    "eventIds": [
+      "WF1027359"
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "eventCount": 6,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 6
+    },
+    "dominantType": "Earthquake",
+    "eventIds": [
+      "WF1027369",
+      "WF1027367",
+      "EQ1523581",
+      "EQ1523535",
+      "EQ1523489",
+      "FL1103759"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "eventCount": 3,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 3
+    },
+    "dominantType": "Earthquake",
+    "eventIds": [
+      "WF1027366",
+      "EQ1523932",
+      "EQ1523937"
+    ]
+  }
+]

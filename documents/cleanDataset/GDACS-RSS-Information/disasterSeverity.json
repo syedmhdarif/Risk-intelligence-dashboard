@@ -1,0 +1,2141 @@
+[
+  {
+    "id": "TC1001256",
+    "eventName": "Red notification for tropical cyclone GEZANI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.754 million .",
+    "country": "Madagascar, Mozambique",
+    "alertLevel": "red",
+    "populationExposed": "1.754 Million",
+    "eventType": "Tropical Cyclone",
+    "aiSummary": "An intense tropical cyclone with maximum wind speeds of 211 km/h affecting Madagascar, Mozambique. Estimated 1.754 Million population exposed to Category 1+ winds. Critical humanitarian situation requiring immediate response.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": -18.05,
+      "lng": 49.26
+    },
+    "timeline": [
+      {
+        "date": "2026-02-06",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Wind Speed",
+        "value": "211.10976 km/h"
+      },
+      {
+        "category": "Population Exposed",
+        "value": "1.754 Million"
+      }
+    ],
+    "detailedAnalysis": "An intense tropical cyclone with maximum wind speeds of 211 km/h affecting Madagascar, Mozambique. Estimated 1.754 Million population exposed to Category 1+ winds. Critical humanitarian situation requiring immediate response."
+  },
+  {
+    "id": "DR1016449",
+    "eventName": "Drought is on going in Brazil",
+    "country": "Brazil",
+    "alertLevel": "orange",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Brazil affecting an estimated 1,027,552 km\u00b2 area. Elevated concern due to prolonged duration and regional impact.",
+    "date": "2022-09-21",
+    "coordinates": {
+      "lat": -7.794,
+      "lng": -52.811
+    },
+    "timeline": [
+      {
+        "date": "2022-09-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "1,027,552 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Brazil affecting an estimated 1,027,552 km\u00b2 area. Elevated concern due to prolonged duration and regional impact."
+  },
+  {
+    "id": "DR1017863",
+    "eventName": "Drought is on going in Ethiopia, Kenya, Somalia",
+    "country": "Ethiopia, Kenya, Somalia",
+    "alertLevel": "orange",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Ethiopia, Kenya, Somalia affecting an estimated 917,999 km\u00b2 area. Elevated concern due to prolonged duration and regional impact.",
+    "date": "2025-04-21",
+    "coordinates": {
+      "lat": 2.584,
+      "lng": 42.479
+    },
+    "timeline": [
+      {
+        "date": "2025-04-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "917,999 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Ethiopia, Kenya, Somalia affecting an estimated 917,999 km\u00b2 area. Elevated concern due to prolonged duration and regional impact."
+  },
+  {
+    "id": "DR1017535",
+    "eventName": "Drought is on going in Afghanistan, Armenia, Azerbaijan, China, Islamic Republic of Iran, Kyrgyzstan, Kazakhstan, Pakistan, Syria, Tajikistan, Turkmenistan, T\u00fcrkiye, Uzbekistan",
+    "country": "Afghanistan, Armenia, Azerbaijan, China, Islamic Republic of Iran, Kyrgyzstan, Kazakhstan, Pakistan, Syria, Tajikistan, Turkmenistan, T\u00fcrkiye, Uzbekistan",
+    "alertLevel": "orange",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Afghanistan, Armenia, Azerbaijan, China, Islamic Republic of Iran, Kyrgyzstan, Kazakhstan, Pakistan, Syria, Tajikistan, Turkmenistan, T\u00fcrkiye, Uzbekistan affecting an estimated 916,375 km\u00b2 area. Elevated concern due to prolonged duration and regional impact.",
+    "date": "2024-10-21",
+    "coordinates": {
+      "lat": 40.068,
+      "lng": 58.438
+    },
+    "timeline": [
+      {
+        "date": "2024-10-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "916,375 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Afghanistan, Armenia, Azerbaijan, China, Islamic Republic of Iran, Kyrgyzstan, Kazakhstan, Pakistan, Syria, Tajikistan, Turkmenistan, T\u00fcrkiye, Uzbekistan affecting an estimated 916,375 km\u00b2 area. Elevated concern due to prolonged duration and regional impact."
+  },
+  {
+    "id": "DR1017944",
+    "eventName": "Drought is on going in Democratic Republic of Congo, Tanzania, Zambia",
+    "country": "Democratic Republic of Congo, Tanzania, Zambia",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Democratic Republic of Congo, Tanzania, Zambia affecting an estimated 243,392 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-06-21",
+    "coordinates": {
+      "lat": -8.494,
+      "lng": 27.35
+    },
+    "timeline": [
+      {
+        "date": "2025-06-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "243,392 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Democratic Republic of Congo, Tanzania, Zambia affecting an estimated 243,392 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "DR1018299",
+    "eventName": "Drought is on going in Peru",
+    "country": "Peru",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Peru affecting an estimated 162,983 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-11-21",
+    "coordinates": {
+      "lat": -13.736,
+      "lng": -73.972
+    },
+    "timeline": [
+      {
+        "date": "2025-11-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "162,983 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Peru affecting an estimated 162,983 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "DR1018196",
+    "eventName": "Drought is on going in Colombia, Venezuela",
+    "country": "Colombia, Venezuela",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Colombia, Venezuela affecting an estimated 157,090 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-09-21",
+    "coordinates": {
+      "lat": 9.815,
+      "lng": -67.493
+    },
+    "timeline": [
+      {
+        "date": "2025-09-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "157,090 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Colombia, Venezuela affecting an estimated 157,090 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "DR1018344",
+    "eventName": "Drought is on going in Angola, Democratic Republic of Congo",
+    "country": "Angola, Democratic Republic of Congo",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Angola, Democratic Republic of Congo affecting an estimated 131,349 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-12-21",
+    "coordinates": {
+      "lat": -9.903,
+      "lng": 15.922
+    },
+    "timeline": [
+      {
+        "date": "2025-12-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "131,349 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Angola, Democratic Republic of Congo affecting an estimated 131,349 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "DR1018139",
+    "eventName": "Drought is on going in South Africa",
+    "country": "South Africa",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in South Africa affecting an estimated 96,831 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-07-21",
+    "coordinates": {
+      "lat": -33.652,
+      "lng": 21.769
+    },
+    "timeline": [
+      {
+        "date": "2025-07-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "96,831 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in South Africa affecting an estimated 96,831 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "DR1018093",
+    "eventName": "Drought is on going in Canada, United States",
+    "country": "Canada, United States",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Canada, United States affecting an estimated 96,388 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-08-21",
+    "coordinates": {
+      "lat": 41.733,
+      "lng": -85.142
+    },
+    "timeline": [
+      {
+        "date": "2025-08-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "96,388 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Canada, United States affecting an estimated 96,388 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "WF1027331",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 71,113 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 7.570549399,
+      "lng": 24.11291567
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "71,113 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 71,113 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027246",
+    "eventName": "Green forest fire notification in Senegal",
+    "country": "Senegal",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Senegal affecting approximately 69,761 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-25",
+    "coordinates": {
+      "lat": 12.91809761,
+      "lng": -12.93597361
+    },
+    "timeline": [
+      {
+        "date": "2026-01-25",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "69,761 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Senegal affecting approximately 69,761 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "DR1018327",
+    "eventName": "Drought is on going in Argentina",
+    "country": "Argentina",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Drought",
+    "aiSummary": "Ongoing drought conditions in Argentina affecting an estimated 39,511 km\u00b2 area. Conditions under routine monitoring.",
+    "date": "2025-12-21",
+    "coordinates": {
+      "lat": -36.999,
+      "lng": -65.507
+    },
+    "timeline": [
+      {
+        "date": "2025-12-21",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (km\u00b2)",
+        "value": "39,511 km2"
+      }
+    ],
+    "detailedAnalysis": "Ongoing drought conditions in Argentina affecting an estimated 39,511 km\u00b2 area. Conditions under routine monitoring."
+  },
+  {
+    "id": "WF1027349",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 20,975 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-30",
+    "coordinates": {
+      "lat": 8.113464797,
+      "lng": 21.92837707
+    },
+    "timeline": [
+      {
+        "date": "2026-01-30",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "20,975 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 20,975 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027319",
+    "eventName": "Green forest fire notification in Chad",
+    "country": "Chad",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Chad affecting approximately 18,222 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-30",
+    "coordinates": {
+      "lat": 10.47746255,
+      "lng": 18.00813575
+    },
+    "timeline": [
+      {
+        "date": "2026-01-30",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "18,222 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Chad affecting approximately 18,222 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027322",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 15,975 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 6.36216741,
+      "lng": 25.1136046
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "15,975 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 15,975 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027326",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 15,405 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 6.565682555,
+      "lng": 24.53788601
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "15,405 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 15,405 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027318",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 14,156 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 8.425810166,
+      "lng": 31.53805652
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "14,156 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 14,156 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027340",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 13,233 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 8.440448038,
+      "lng": 21.6443941
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "13,233 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 13,233 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027329",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 11,236 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 7.500664924,
+      "lng": 23.45285003
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "11,236 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 11,236 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027357",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 10,414 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-05",
+    "coordinates": {
+      "lat": 9.042768476,
+      "lng": 31.96707389
+    },
+    "timeline": [
+      {
+        "date": "2026-02-05",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "10,414 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 10,414 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027363",
+    "eventName": "Green forest fire notification in Ghana",
+    "country": "Ghana",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Ghana affecting approximately 9,890 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-04",
+    "coordinates": {
+      "lat": 9.262915491,
+      "lng": -0.515387698
+    },
+    "timeline": [
+      {
+        "date": "2026-02-04",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "9,890 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Ghana affecting approximately 9,890 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027362",
+    "eventName": "Green forest fire notification in Guinea",
+    "country": "Guinea",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Guinea affecting approximately 9,166 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": 9.450058904,
+      "lng": -10.11746522
+    },
+    "timeline": [
+      {
+        "date": "2026-02-06",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "9,166 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Guinea affecting approximately 9,166 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027308",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 9,165 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-29",
+    "coordinates": {
+      "lat": 7.619425568,
+      "lng": 21.19007665
+    },
+    "timeline": [
+      {
+        "date": "2026-01-29",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "9,165 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 9,165 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027338",
+    "eventName": "Green forest fire notification in Ethiopia",
+    "country": "Ethiopia",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Ethiopia affecting approximately 8,524 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-24",
+    "coordinates": {
+      "lat": 11.64118288,
+      "lng": 35.83138425
+    },
+    "timeline": [
+      {
+        "date": "2026-01-24",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "8,524 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Ethiopia affecting approximately 8,524 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027347",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 8,486 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 6.144182998,
+      "lng": 26.66359247
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "8,486 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 8,486 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027332",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 8,458 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-28",
+    "coordinates": {
+      "lat": 8.637590839,
+      "lng": 33.38550445
+    },
+    "timeline": [
+      {
+        "date": "2026-01-28",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "8,458 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 8,458 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027342",
+    "eventName": "Green forest fire notification in Benin",
+    "country": "Benin",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Benin affecting approximately 8,379 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 11.86434241,
+      "lng": 2.791986798
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "8,379 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Benin affecting approximately 8,379 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027325",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 8,315 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-01",
+    "coordinates": {
+      "lat": 8.420624655,
+      "lng": 22.61859436
+    },
+    "timeline": [
+      {
+        "date": "2026-02-01",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "8,315 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 8,315 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027360",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 7,791 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-05",
+    "coordinates": {
+      "lat": 8.47850467,
+      "lng": 19.54859622
+    },
+    "timeline": [
+      {
+        "date": "2026-02-05",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,791 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 7,791 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027365",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 7,753 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-03",
+    "coordinates": {
+      "lat": 6.498603951,
+      "lng": 30.31971413
+    },
+    "timeline": [
+      {
+        "date": "2026-02-03",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,753 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 7,753 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027359",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 7,715 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-07",
+    "coordinates": {
+      "lat": 7.375287487,
+      "lng": 24.08529725
+    },
+    "timeline": [
+      {
+        "date": "2026-02-07",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,715 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 7,715 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027355",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 7,568 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-25",
+    "coordinates": {
+      "lat": 8.644183931,
+      "lng": 33.61616568
+    },
+    "timeline": [
+      {
+        "date": "2026-01-25",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,568 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 7,568 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027335",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 7,347 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 7.003804291,
+      "lng": 23.37935679
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,347 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 7,347 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027350",
+    "eventName": "Green forest fire notification in Mali",
+    "country": "Mali",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Mali affecting approximately 7,345 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-01",
+    "coordinates": {
+      "lat": 12.51154509,
+      "lng": -9.982114618
+    },
+    "timeline": [
+      {
+        "date": "2026-02-01",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,345 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Mali affecting approximately 7,345 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027339",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 7,056 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-03",
+    "coordinates": {
+      "lat": 8.500445981,
+      "lng": 21.95428523
+    },
+    "timeline": [
+      {
+        "date": "2026-02-03",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "7,056 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 7,056 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027366",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 6,967 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-10",
+    "coordinates": {
+      "lat": 8.17830727,
+      "lng": 32.92888695
+    },
+    "timeline": [
+      {
+        "date": "2026-02-10",
+        "description": "Event first reported"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,967 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 6,967 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027358",
+    "eventName": "Green forest fire notification in Mexico",
+    "country": "Mexico",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Mexico affecting approximately 6,888 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-04",
+    "coordinates": {
+      "lat": 16.40450592,
+      "lng": -94.41411639
+    },
+    "timeline": [
+      {
+        "date": "2026-02-04",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,888 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Mexico affecting approximately 6,888 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027346",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 6,671 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 9.076000033,
+      "lng": 31.89729619
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,671 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 6,671 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027337",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 6,574 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-29",
+    "coordinates": {
+      "lat": 6.745232049,
+      "lng": 24.44315577
+    },
+    "timeline": [
+      {
+        "date": "2026-01-29",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,574 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 6,574 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027353",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 6,420 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-04",
+    "coordinates": {
+      "lat": 7.863231153,
+      "lng": 22.02670795
+    },
+    "timeline": [
+      {
+        "date": "2026-02-04",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,420 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 6,420 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027334",
+    "eventName": "Green forest fire notification in Australia",
+    "country": "Australia",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Australia affecting approximately 6,242 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-01",
+    "coordinates": {
+      "lat": -35.63423065,
+      "lng": 138.1878383
+    },
+    "timeline": [
+      {
+        "date": "2026-02-01",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,242 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Australia affecting approximately 6,242 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027344",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 6,224 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-03",
+    "coordinates": {
+      "lat": 10.19288011,
+      "lng": 24.07039239
+    },
+    "timeline": [
+      {
+        "date": "2026-02-03",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "6,224 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 6,224 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027354",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,816 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-03",
+    "coordinates": {
+      "lat": 6.073360408,
+      "lng": 19.52135936
+    },
+    "timeline": [
+      {
+        "date": "2026-02-03",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,816 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 5,816 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027361",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 5,811 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 8.492962034,
+      "lng": 33.36720749
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,811 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 5,811 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027368",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 5,806 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 9.09372573,
+      "lng": 31.82155176
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,806 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 5,806 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027351",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,706 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 7.190496624,
+      "lng": 20.69682415
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,706 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 5,706 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027369",
+    "eventName": "Green forest fire notification in Cambodia",
+    "country": "Cambodia",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Cambodia affecting approximately 5,673 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 13.23540945,
+      "lng": 106.6395792
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,673 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Cambodia affecting approximately 5,673 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027367",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,646 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 7.56420629,
+      "lng": 23.89333657
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,646 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 5,646 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027343",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,436 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 7.779052764,
+      "lng": 21.68367769
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,436 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 5,436 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027352",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 5,302 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-04",
+    "coordinates": {
+      "lat": 10.5606939,
+      "lng": 24.17911801
+    },
+    "timeline": [
+      {
+        "date": "2026-02-04",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,302 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 5,302 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027364",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,274 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-03",
+    "coordinates": {
+      "lat": 8.038754932,
+      "lng": 23.70483515
+    },
+    "timeline": [
+      {
+        "date": "2026-02-03",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,274 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Central African Republic affecting approximately 5,274 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027348",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 5,182 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 6.121614529,
+      "lng": 31.24062473
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,182 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Sudan affecting approximately 5,182 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "WF1027356",
+    "eventName": "Green forest fire notification in Nigeria",
+    "country": "Nigeria",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Nigeria affecting approximately 5,160 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-02",
+    "coordinates": {
+      "lat": 10.00730535,
+      "lng": 3.847213645
+    },
+    "timeline": [
+      {
+        "date": "2026-02-02",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Area Affected (ha)",
+        "value": "5,160 ha"
+      }
+    ],
+    "detailedAnalysis": "Forest fire activity detected in Nigeria affecting approximately 5,160 hectares. Fire spread is being tracked via satellite monitoring."
+  },
+  {
+    "id": "TC1001257",
+    "eventName": "Green notification for tropical cyclone MITCHELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6555 .",
+    "country": "Australia",
+    "alertLevel": "green",
+    "populationExposed": "7K",
+    "eventType": "Tropical Cyclone",
+    "aiSummary": "An intense tropical cyclone with maximum wind speeds of 148 km/h affecting Australia. Estimated 7K population exposed to Category 1+ winds. Monitoring ongoing.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": -25.3,
+      "lng": 113.8
+    },
+    "timeline": [
+      {
+        "date": "2026-02-06",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Wind Speed",
+        "value": "148.1472 km/h"
+      },
+      {
+        "category": "Population Exposed",
+        "value": "7K"
+      }
+    ],
+    "detailedAnalysis": "An intense tropical cyclone with maximum wind speeds of 148 km/h affecting Australia. Estimated 7K population exposed to Category 1+ winds. Monitoring ongoing."
+  },
+  {
+    "id": "EQ1523932",
+    "eventName": "Green earthquake (Magnitude 6.2M, Depth:510.944km) in Fiji 10/02/2026 20:44 UTC, [unknown].",
+    "country": "Fiji",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 6.2M earthquake detected in Fiji. Population exposure estimated at Unknown. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-10",
+    "coordinates": {
+      "lat": -21.0396,
+      "lng": -178.3348
+    },
+    "timeline": [
+      {
+        "date": "2026-02-10",
+        "description": "Event first reported"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Magnitude",
+        "value": "6.2 M"
+      }
+    ],
+    "detailedAnalysis": "A magnitude 6.2M earthquake detected in Fiji. Population exposure estimated at Unknown. Seismic monitoring continues for aftershock activity."
+  },
+  {
+    "id": "EQ1523581",
+    "eventName": "Green earthquake (Magnitude 5.7M, Depth:18.829km) in Mexico 08/02/2026 21:42 UTC, 50 thousand in MMI V.",
+    "country": "Mexico",
+    "alertLevel": "green",
+    "populationExposed": "50 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.7M earthquake detected in Mexico. Population exposure estimated at 50 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 16.1627,
+      "lng": -96.6947
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "description": "Event first reported"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Magnitude",
+        "value": "5.7 M"
+      },
+      {
+        "category": "Population Exposed",
+        "value": "50 Thousand"
+      }
+    ],
+    "detailedAnalysis": "A magnitude 5.7M earthquake detected in Mexico. Population exposure estimated at 50 Thousand. Seismic monitoring continues for aftershock activity."
+  },
+  {
+    "id": "EQ1523535",
+    "eventName": "Green earthquake (Magnitude 5.7M, Depth:118.978km) in Chile 08/02/2026 16:23 UTC, 30 thousand in MMI V.",
+    "country": "Chile",
+    "alertLevel": "green",
+    "populationExposed": "30 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.7M earthquake detected in Chile. Population exposure estimated at 30 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": -20.0999,
+      "lng": -68.9642
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "description": "Event first reported"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Magnitude",
+        "value": "5.7 M"
+      },
+      {
+        "category": "Population Exposed",
+        "value": "30 Thousand"
+      }
+    ],
+    "detailedAnalysis": "A magnitude 5.7M earthquake detected in Chile. Population exposure estimated at 30 Thousand. Seismic monitoring continues for aftershock activity."
+  },
+  {
+    "id": "EQ1523937",
+    "eventName": "Green earthquake (Magnitude 5.6M, Depth:10km) in Tonga 10/02/2026 21:14 UTC, 230 thousand in MMI III.",
+    "country": "Tonga",
+    "alertLevel": "green",
+    "populationExposed": "230 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.6M earthquake detected in Tonga. Population exposure estimated at 230 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-10",
+    "coordinates": {
+      "lat": -14.97,
+      "lng": -172.9395
+    },
+    "timeline": [
+      {
+        "date": "2026-02-10",
+        "description": "Event first reported"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Magnitude",
+        "value": "5.6 M"
+      },
+      {
+        "category": "Population Exposed",
+        "value": "230 Thousand"
+      }
+    ],
+    "detailedAnalysis": "A magnitude 5.6M earthquake detected in Tonga. Population exposure estimated at 230 Thousand. Seismic monitoring continues for aftershock activity."
+  },
+  {
+    "id": "EQ1523489",
+    "eventName": "Green earthquake (Magnitude 5.5M, Depth:10km) in Cuba 08/02/2026 12:00 UTC, 20 thousand in MMI V.",
+    "country": "Cuba",
+    "alertLevel": "green",
+    "populationExposed": "20 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.5M earthquake detected in Cuba. Population exposure estimated at 20 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 19.8899,
+      "lng": -74.371
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "description": "Event first reported"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Magnitude",
+        "value": "5.5 M"
+      },
+      {
+        "category": "Population Exposed",
+        "value": "20 Thousand"
+      }
+    ],
+    "detailedAnalysis": "A magnitude 5.5M earthquake detected in Cuba. Population exposure estimated at 20 Thousand. Seismic monitoring continues for aftershock activity."
+  },
+  {
+    "id": "FL1103759",
+    "eventName": "Green flood alert in South Africa",
+    "country": "South Africa",
+    "alertLevel": "green",
+    "populationExposed": "0 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in South Africa with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": -34.3409192,
+      "lng": 19.0322219
+    },
+    "timeline": [
+      {
+        "date": "2026-02-08",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-10",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "0 deaths"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in South Africa with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103754",
+    "eventName": "Green flood alert in Italy",
+    "country": "Italy",
+    "alertLevel": "green",
+    "populationExposed": "0 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Italy with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": 41.9801648,
+      "lng": 12.7667971
+    },
+    "timeline": [
+      {
+        "date": "2026-02-06",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "0 deaths"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Italy with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103755",
+    "eventName": "Green flood alert in Syria",
+    "country": "Syria",
+    "alertLevel": "green",
+    "populationExposed": "3 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Syria with 3 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": 35.5200185,
+      "lng": 35.7781044
+    },
+    "timeline": [
+      {
+        "date": "2026-02-06",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "3 deaths"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Syria with 3 fatalities and 0 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103756",
+    "eventName": "Green flood alert in Argentina",
+    "country": "Argentina",
+    "alertLevel": "green",
+    "populationExposed": "200 displaced",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Argentina with 0 fatalities and 200 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": -25.2269908,
+      "lng": -64.5911956
+    },
+    "timeline": [
+      {
+        "date": "2026-02-06",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "200 displaced"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Argentina with 0 fatalities and 200 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103758",
+    "eventName": "Green flood alert in Romania",
+    "country": "Romania",
+    "alertLevel": "green",
+    "populationExposed": "0 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Romania with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-05",
+    "coordinates": {
+      "lat": 44.7190945,
+      "lng": 23.797756
+    },
+    "timeline": [
+      {
+        "date": "2026-02-05",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "0 deaths"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Romania with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103753",
+    "eventName": "Green flood alert in Portugal",
+    "country": "Portugal",
+    "alertLevel": "green",
+    "populationExposed": "874 displaced",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Portugal with 2 fatalities and 874 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-03",
+    "coordinates": {
+      "lat": 38.0154479,
+      "lng": -7.8650368
+    },
+    "timeline": [
+      {
+        "date": "2026-02-03",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "874 displaced"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Portugal with 2 fatalities and 874 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103749",
+    "eventName": "Green flood alert in Philippines",
+    "country": "Philippines",
+    "alertLevel": "green",
+    "populationExposed": "56770 displaced",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Philippines with 11 fatalities and 56770 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-01-31",
+    "coordinates": {
+      "lat": 8.1301206,
+      "lng": 124.214946
+    },
+    "timeline": [
+      {
+        "date": "2026-01-31",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-07",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "56770 displaced"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Philippines with 11 fatalities and 56770 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103732",
+    "eventName": "Green flood alert in Colombia",
+    "country": "Colombia",
+    "alertLevel": "green",
+    "populationExposed": "1300 displaced",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Colombia with 13 fatalities and 1300 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-01-22",
+    "coordinates": {
+      "lat": 1.18899655,
+      "lng": -77.87056516
+    },
+    "timeline": [
+      {
+        "date": "2026-01-22",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-08",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "1300 displaced"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Colombia with 13 fatalities and 1300 displaced. Flood conditions are being monitored for further escalation."
+  },
+  {
+    "id": "FL1103727",
+    "eventName": "Green flood alert in Spain",
+    "country": "Spain",
+    "alertLevel": "green",
+    "populationExposed": "1392 displaced",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Spain with 2 fatalities and 1392 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-01-16",
+    "coordinates": {
+      "lat": 28.0844978,
+      "lng": -15.4382882
+    },
+    "timeline": [
+      {
+        "date": "2026-01-16",
+        "description": "Event first reported"
+      },
+      {
+        "date": "2026-02-09",
+        "description": "Latest update"
+      }
+    ],
+    "impactBreakdown": [
+      {
+        "category": "Population Exposed",
+        "value": "1392 displaced"
+      }
+    ],
+    "detailedAnalysis": "Flooding reported in Spain with 2 fatalities and 1392 displaced. Flood conditions are being monitored for further escalation."
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "WF1027366",
+    "eventName": "Green forest fire notification in Sudan",
+    "country": "Sudan",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Sudan affecting approximately 6,967 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-10",
+    "coordinates": {
+      "lat": 8.17830727,
+      "lng": 32.92888695
+    }
+  },
+  {
+    "id": "EQ1523932",
+    "eventName": "Green earthquake (Magnitude 6.2M, Depth:510.944km) in Fiji 10/02/2026 20:44 UTC, [unknown].",
+    "country": "Fiji",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 6.2M earthquake detected in Fiji. Population exposure estimated at Unknown. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-10",
+    "coordinates": {
+      "lat": -21.0396,
+      "lng": -178.3348
+    }
+  },
+  {
+    "id": "EQ1523937",
+    "eventName": "Green earthquake (Magnitude 5.6M, Depth:10km) in Tonga 10/02/2026 21:14 UTC, 230 thousand in MMI III.",
+    "country": "Tonga",
+    "alertLevel": "green",
+    "populationExposed": "230 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.6M earthquake detected in Tonga. Population exposure estimated at 230 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-10",
+    "coordinates": {
+      "lat": -14.97,
+      "lng": -172.9395
+    }
+  },
+  {
+    "id": "WF1027369",
+    "eventName": "Green forest fire notification in Cambodia",
+    "country": "Cambodia",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Cambodia affecting approximately 5,673 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 13.23540945,
+      "lng": 106.6395792
+    }
+  },
+  {
+    "id": "WF1027367",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 5,646 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 7.56420629,
+      "lng": 23.89333657
+    }
+  },
+  {
+    "id": "EQ1523581",
+    "eventName": "Green earthquake (Magnitude 5.7M, Depth:18.829km) in Mexico 08/02/2026 21:42 UTC, 50 thousand in MMI V.",
+    "country": "Mexico",
+    "alertLevel": "green",
+    "populationExposed": "50 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.7M earthquake detected in Mexico. Population exposure estimated at 50 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 16.1627,
+      "lng": -96.6947
+    }
+  },
+  {
+    "id": "EQ1523535",
+    "eventName": "Green earthquake (Magnitude 5.7M, Depth:118.978km) in Chile 08/02/2026 16:23 UTC, 30 thousand in MMI V.",
+    "country": "Chile",
+    "alertLevel": "green",
+    "populationExposed": "30 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.7M earthquake detected in Chile. Population exposure estimated at 30 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": -20.0999,
+      "lng": -68.9642
+    }
+  },
+  {
+    "id": "EQ1523489",
+    "eventName": "Green earthquake (Magnitude 5.5M, Depth:10km) in Cuba 08/02/2026 12:00 UTC, 20 thousand in MMI V.",
+    "country": "Cuba",
+    "alertLevel": "green",
+    "populationExposed": "20 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A magnitude 5.5M earthquake detected in Cuba. Population exposure estimated at 20 Thousand. Seismic monitoring continues for aftershock activity.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": 19.8899,
+      "lng": -74.371
+    }
+  },
+  {
+    "id": "FL1103759",
+    "eventName": "Green flood alert in South Africa",
+    "country": "South Africa",
+    "alertLevel": "green",
+    "populationExposed": "0 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in South Africa with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-08",
+    "coordinates": {
+      "lat": -34.3409192,
+      "lng": 19.0322219
+    }
+  },
+  {
+    "id": "WF1027359",
+    "eventName": "Green forest fire notification in Central African Republic",
+    "country": "Central African Republic",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Central African Republic affecting approximately 7,715 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-07",
+    "coordinates": {
+      "lat": 7.375287487,
+      "lng": 24.08529725
+    }
+  },
+  {
+    "id": "TC1001256",
+    "eventName": "Red notification for tropical cyclone GEZANI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.754 million .",
+    "country": "Madagascar, Mozambique",
+    "alertLevel": "red",
+    "populationExposed": "1.754 Million",
+    "eventType": "Tropical Cyclone",
+    "aiSummary": "An intense tropical cyclone with maximum wind speeds of 211 km/h affecting Madagascar, Mozambique. Estimated 1.754 Million population exposed to Category 1+ winds. Critical humanitarian situation requiring immediate response.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": -18.05,
+      "lng": 49.26
+    }
+  },
+  {
+    "id": "WF1027362",
+    "eventName": "Green forest fire notification in Guinea",
+    "country": "Guinea",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Wildfire",
+    "aiSummary": "Forest fire activity detected in Guinea affecting approximately 9,166 hectares. Fire spread is being tracked via satellite monitoring.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": 9.450058904,
+      "lng": -10.11746522
+    }
+  },
+  {
+    "id": "TC1001257",
+    "eventName": "Green notification for tropical cyclone MITCHELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6555 .",
+    "country": "Australia",
+    "alertLevel": "green",
+    "populationExposed": "7K",
+    "eventType": "Tropical Cyclone",
+    "aiSummary": "An intense tropical cyclone with maximum wind speeds of 148 km/h affecting Australia. Estimated 7K population exposed to Category 1+ winds. Monitoring ongoing.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": -25.3,
+      "lng": 113.8
+    }
+  },
+  {
+    "id": "FL1103754",
+    "eventName": "Green flood alert in Italy",
+    "country": "Italy",
+    "alertLevel": "green",
+    "populationExposed": "0 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Italy with 0 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": 41.9801648,
+      "lng": 12.7667971
+    }
+  },
+  {
+    "id": "FL1103755",
+    "eventName": "Green flood alert in Syria",
+    "country": "Syria",
+    "alertLevel": "green",
+    "populationExposed": "3 deaths",
+    "eventType": "Flood",
+    "aiSummary": "Flooding reported in Syria with 3 fatalities and 0 displaced. Flood conditions are being monitored for further escalation.",
+    "date": "2026-02-06",
+    "coordinates": {
+      "lat": 35.5200185,
+      "lng": 35.7781044
+    }
+  }
+]

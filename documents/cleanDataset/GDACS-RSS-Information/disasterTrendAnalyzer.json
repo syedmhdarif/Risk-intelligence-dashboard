@@ -1,0 +1,262 @@
+[
+  {
+    "date": "2022-09-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 1,
+      "green": 0
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2024-10-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 1,
+      "green": 0
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-04-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 1,
+      "green": 0
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-06-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-07-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-08-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-09-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-11-21",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2025-12-21",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Drought"
+  },
+  {
+    "date": "2026-01-16",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Flood"
+  },
+  {
+    "date": "2026-01-22",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Flood"
+  },
+  {
+    "date": "2026-01-24",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-01-25",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-01-28",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-01-29",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-01-30",
+    "eventCount": 2,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 2
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-01-31",
+    "eventCount": 10,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 10
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-01",
+    "eventCount": 3,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 3
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-02",
+    "eventCount": 7,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 7
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-03",
+    "eventCount": 6,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 6
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-04",
+    "eventCount": 4,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 4
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-05",
+    "eventCount": 3,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 3
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-06",
+    "eventCount": 6,
+    "severityBreakdown": {
+      "red": 1,
+      "orange": 0,
+      "green": 5
+    },
+    "dominantType": "Flood"
+  },
+  {
+    "date": "2026-02-07",
+    "eventCount": 1,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 1
+    },
+    "dominantType": "Wildfire"
+  },
+  {
+    "date": "2026-02-08",
+    "eventCount": 6,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 6
+    },
+    "dominantType": "Earthquake"
+  },
+  {
+    "date": "2026-02-10",
+    "eventCount": 3,
+    "severityBreakdown": {
+      "red": 0,
+      "orange": 0,
+      "green": 3
+    },
+    "dominantType": "Earthquake"
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "region": "Central African Republic",
+    "eventCount": 19,
+    "highestSeverity": "green",
+    "maxSeverityValue": 71113.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027331",
+      "WF1027349",
+      "WF1027322",
+      "WF1027326",
+      "WF1027340",
+      "WF1027329",
+      "WF1027308",
+      "WF1027325",
+      "WF1027360",
+      "WF1027359",
+      "WF1027335",
+      "WF1027339",
+      "WF1027337",
+      "WF1027353",
+      "WF1027354",
+      "WF1027351",
+      "WF1027367",
+      "WF1027343",
+      "WF1027364"
+    ],
+    "alertLevels": [
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "Sudan",
+    "eventCount": 13,
+    "highestSeverity": "green",
+    "maxSeverityValue": 14156.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027318",
+      "WF1027357",
+      "WF1027347",
+      "WF1027332",
+      "WF1027365",
+      "WF1027355",
+      "WF1027366",
+      "WF1027346",
+      "WF1027344",
+      "WF1027361",
+      "WF1027368",
+      "WF1027352",
+      "WF1027348"
+    ],
+    "alertLevels": [
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "Argentina",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "maxSeverityValue": 39511.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1018327",
+      "FL1103756"
+    ],
+    "alertLevels": [
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "Australia",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "maxSeverityValue": 6242.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027334",
+      "TC1001257"
+    ],
+    "alertLevels": [
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "Colombia",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "maxSeverityValue": 157090.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1018196",
+      "FL1103732"
+    ],
+    "alertLevels": [
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "Ethiopia",
+    "eventCount": 2,
+    "highestSeverity": "orange",
+    "maxSeverityValue": 917999.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1017863",
+      "WF1027338"
+    ],
+    "alertLevels": [
+      "orange",
+      "green"
+    ]
+  },
+  {
+    "region": "Mexico",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "maxSeverityValue": 6888.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027358",
+      "EQ1523581"
+    ],
+    "alertLevels": [
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "South Africa",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "maxSeverityValue": 96831.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1018139",
+      "FL1103759"
+    ],
+    "alertLevels": [
+      "green",
+      "green"
+    ]
+  },
+  {
+    "region": "Afghanistan",
+    "eventCount": 1,
+    "highestSeverity": "orange",
+    "maxSeverityValue": 916375.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1017535"
+    ],
+    "alertLevels": [
+      "orange"
+    ]
+  },
+  {
+    "region": "Angola",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 131349.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1018344"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Benin",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 8379.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027342"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Brazil",
+    "eventCount": 1,
+    "highestSeverity": "orange",
+    "maxSeverityValue": 1027552.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1016449"
+    ],
+    "alertLevels": [
+      "orange"
+    ]
+  },
+  {
+    "region": "Cambodia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 5673.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027369"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Canada",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 96388.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1018093"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Chad",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 18222.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027319"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Chile",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 5.7,
+    "dominantDisasterType": "Earthquake",
+    "eventIds": [
+      "EQ1523535"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Cuba",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 5.5,
+    "dominantDisasterType": "Earthquake",
+    "eventIds": [
+      "EQ1523489"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Democratic Republic of Congo",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 243392.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1017944"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Fiji",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 6.2,
+    "dominantDisasterType": "Earthquake",
+    "eventIds": [
+      "EQ1523932"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Ghana",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 9890.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027363"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Guinea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 9166.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027362"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Italy",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 0.0,
+    "dominantDisasterType": "Flood",
+    "eventIds": [
+      "FL1103754"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Madagascar",
+    "eventCount": 1,
+    "highestSeverity": "red",
+    "maxSeverityValue": 211.10976,
+    "dominantDisasterType": "Tropical Cyclone",
+    "eventIds": [
+      "TC1001256"
+    ],
+    "alertLevels": [
+      "red"
+    ]
+  },
+  {
+    "region": "Mali",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 7345.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027350"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Nigeria",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 5160.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027356"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Peru",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 162983.0,
+    "dominantDisasterType": "Drought",
+    "eventIds": [
+      "DR1018299"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Philippines",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 0.0,
+    "dominantDisasterType": "Flood",
+    "eventIds": [
+      "FL1103749"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Portugal",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 0.0,
+    "dominantDisasterType": "Flood",
+    "eventIds": [
+      "FL1103753"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Romania",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 0.0,
+    "dominantDisasterType": "Flood",
+    "eventIds": [
+      "FL1103758"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Senegal",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 69761.0,
+    "dominantDisasterType": "Wildfire",
+    "eventIds": [
+      "WF1027246"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Spain",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 0.0,
+    "dominantDisasterType": "Flood",
+    "eventIds": [
+      "FL1103727"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Syria",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 0.0,
+    "dominantDisasterType": "Flood",
+    "eventIds": [
+      "FL1103755"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  },
+  {
+    "region": "Tonga",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "maxSeverityValue": 5.6,
+    "dominantDisasterType": "Earthquake",
+    "eventIds": [
+      "EQ1523937"
+    ],
+    "alertLevels": [
+      "green"
+    ]
+  }
+]
