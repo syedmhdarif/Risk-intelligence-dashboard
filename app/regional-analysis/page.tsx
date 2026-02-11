@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { ArrowLeft, Globe, TrendingUp, Loader2 } from "lucide-react";
 import { RegionalRisk, AnalysisSummary, SeverityLevel } from "@/lib/types";
+import { withBasePath } from "@/lib/config";
 
 const severityColors: Record<SeverityLevel, string> = {
   red: "bg-severity-red",
@@ -32,11 +33,13 @@ export default function RegionalAnalysisPage() {
       return;
     }
 
-    fetch(`/api/clean-datasets/${encodeURIComponent(dataset)}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setRegions(data.regionalRiskHeatmap || []);
-        setSummary(data.analysisSummary || null);
+    Promise.all([
+      fetch(withBasePath(`/data/${encodeURIComponent(dataset)}/regionalRiskHeatmap.json`)).then((r) => r.ok ? r.json() : []),
+      fetch(withBasePath(`/data/${encodeURIComponent(dataset)}/analysisSummary.json`)).then((r) => r.ok ? r.json() : null),
+    ])
+      .then(([regionsData, summaryData]) => {
+        setRegions(regionsData || []);
+        setSummary(summaryData || null);
       })
       .catch(() => {})
       .finally(() => setLoading(false));

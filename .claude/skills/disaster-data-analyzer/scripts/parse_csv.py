@@ -31,6 +31,8 @@ def parse_date(date_str: str) -> str | None:
     for fmt in [
         "%a, %d %b %Y %H:%M:%S %Z",
         "%a, %d %b %Y %H:%M:%S",
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M:%S.",
         "%Y-%m-%d",
         "%d/%m/%Y",
         "%m/%d/%Y",
@@ -154,42 +156,134 @@ def parse_csv_file(csv_path: str) -> list[dict]:
     return rows
 
 
+def detect_csv_format(rows: list[dict]) -> str:
+    """Detect whether the CSV is GDACS RSS format or alternative format."""
+    if not rows:
+        return "unknown"
+    first_row = rows[0]
+    # GDACS RSS has 'id', 'title', 'summary', 'event_type', 'geo_lat', 'geo_long'
+    if "id" in first_row and "title" in first_row and "event_type" in first_row:
+        return "gdacs_rss"
+    # Alternative format has 'description', 'alertlevel', 'Earthquake Magnitude (M)'
+    if "description" in first_row and "alertlevel" in first_row:
+        return "gdacs_alt"
+    return "unknown"
+
+
+def extract_event_type_from_description(desc: str) -> str:
+    """Extract disaster type from description text."""
+    desc_lower = desc.lower()
+    if "earthquake" in desc_lower:
+        return "Earthquake"
+    elif "flood" in desc_lower:
+        return "Flood"
+    elif "cyclone" in desc_lower or "typhoon" in desc_lower or "hurricane" in desc_lower:
+        return "Tropical Cyclone"
+    elif "wildfire" in desc_lower or "fire" in desc_lower:
+        return "Wildfire"
+    elif "drought" in desc_lower:
+        return "Drought"
+    elif "volcano" in desc_lower or "eruption" in desc_lower:
+        return "Volcano"
+    elif "tsunami" in desc_lower:
+        return "Tsunami"
+    elif "storm" in desc_lower:
+        return "Storm"
+    return "Unknown"
+
+
+def format_population(pop_value: float) -> str:
+    """Format a numeric population value into a human-readable string."""
+    if pop_value < 0:
+        return "Unknown"
+    if pop_value == 0:
+        return "0"
+    if pop_value >= 1_000_000:
+        return f"{pop_value / 1_000_000:.1f} Million"
+    if pop_value >= 1_000:
+        return f"{pop_value / 1_000:.0f} Thousand"
+    return str(int(pop_value))
+
+
 def build_parsed_events(rows: list[dict]) -> list[dict]:
-    """Convert raw CSV rows to DisasterEvent-shaped objects."""
+    """Convert raw CSV rows to DisasterEvent-shaped objects.
+
+    Supports both GDACS RSS format and alternative GDACS earthquake format.
+    """
     events = []
+    csv_format = detect_csv_format(rows)
 
-    for row in rows:
-        event_id = row.get("id", "").strip()
-        if not event_id:
-            continue
+    for idx, row in enumerate(rows):
+        if csv_format == "gdacs_alt":
+            # Alternative format: description, alertlevel, fromdate, todate, etc.
+            title = row.get("description", "").strip()
+            if not title:
+                continue
 
-        title = row.get("title", "").strip()
-        summary = row.get("summary", "").strip()
-        from_date = parse_date(row.get("from_date", ""))
-        to_date = parse_date(row.get("to_date", ""))
+            event_id = f"EV{idx + 1:06d}"
+            alert_level_raw = row.get("alertlevel", "").strip().lower()
+            alert_level = alert_level_raw if alert_level_raw in ("red", "orange", "green") else extract_alert_level(title)
+            from_date = parse_date(row.get("fromdate", ""))
+            to_date = parse_date(row.get("todate", ""))
+            lat = safe_float(row.get("latitude", "0"))
+            lng = safe_float(row.get("longitude", "0"))
+            magnitude = safe_float(row.get("Earthquake Magnitude (M)", "0"))
+            pop_exposed_raw = safe_float(row.get("Exposed Population (within 100 km)", "-1"))
+            depth = safe_float(row.get("Depth (km)", "0"))
+            event_type = extract_event_type_from_description(title)
 
-        lat = safe_float(row.get("geo_lat", "0"))
-        lng = safe_float(row.get("geo_long", "0"))
+            event = {
+                "id": event_id,
+                "eventName": title,
+                "country": row.get("country", "").strip(),
+                "iso3": row.get("iso3", "").strip(),
+                "alertLevel": alert_level,
+                "populationExposed": format_population(pop_exposed_raw),
+                "eventType": event_type,
+                "aiSummary": "",
+                "date": from_date or "",
+                "endDate": to_date or "",
+                "coordinates": {"lat": lat, "lng": lng} if lat != 0 or lng != 0 else None,
+                "severityUnit": "M" if event_type == "Earthquake" else "",
+                "severityValue": magnitude,
+                "source": row.get("source", "").strip(),
+                "link": "",
+                "rawSummary": "",
+                "rawTitle": title,
+                "depth": depth,
+            }
+        else:
+            # Standard GDACS RSS format
+            event_id = row.get("id", "").strip()
+            if not event_id:
+                continue
 
-        event = {
-            "id": event_id,
-            "eventName": title,
-            "country": row.get("country", "").strip(),
-            "iso3": row.get("iso3", "").strip(),
-            "alertLevel": extract_alert_level(title, summary),
-            "populationExposed": extract_population(summary),
-            "eventType": row.get("event_type", "").strip(),
-            "aiSummary": "",  # To be filled by AI in step 3
-            "date": from_date or "",
-            "endDate": to_date or "",
-            "coordinates": {"lat": lat, "lng": lng} if lat != 0 or lng != 0 else None,
-            "severityUnit": row.get("severity_unit", "").strip(),
-            "severityValue": safe_float(row.get("severity_value", "0")),
-            "source": row.get("source", "").strip(),
-            "link": row.get("link", "").strip(),
-            "rawSummary": summary,
-            "rawTitle": title,
-        }
+            title = row.get("title", "").strip()
+            summary = row.get("summary", "").strip()
+            from_date = parse_date(row.get("from_date", ""))
+            to_date = parse_date(row.get("to_date", ""))
+            lat = safe_float(row.get("geo_lat", "0"))
+            lng = safe_float(row.get("geo_long", "0"))
+
+            event = {
+                "id": event_id,
+                "eventName": title,
+                "country": row.get("country", "").strip(),
+                "iso3": row.get("iso3", "").strip(),
+                "alertLevel": extract_alert_level(title, summary),
+                "populationExposed": extract_population(summary),
+                "eventType": row.get("event_type", "").strip(),
+                "aiSummary": "",
+                "date": from_date or "",
+                "endDate": to_date or "",
+                "coordinates": {"lat": lat, "lng": lng} if lat != 0 or lng != 0 else None,
+                "severityUnit": row.get("severity_unit", "").strip(),
+                "severityValue": safe_float(row.get("severity_value", "0")),
+                "source": row.get("source", "").strip(),
+                "link": row.get("link", "").strip(),
+                "rawSummary": summary,
+                "rawTitle": title,
+            }
 
         events.append(event)
 

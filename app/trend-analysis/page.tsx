@@ -11,6 +11,7 @@ import {
   Loader2,
 } from "lucide-react";
 import { TrendDataPoint, AnalysisSummary } from "@/lib/types";
+import { withBasePath } from "@/lib/config";
 
 export default function TrendAnalysisPage() {
   const [trendData, setTrendData] = useState<TrendDataPoint[]>([]);
@@ -24,11 +25,13 @@ export default function TrendAnalysisPage() {
       return;
     }
 
-    fetch(`/api/clean-datasets/${encodeURIComponent(dataset)}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setTrendData(data.disasterTrendAnalyzer || []);
-        setSummary(data.analysisSummary || null);
+    Promise.all([
+      fetch(withBasePath(`/data/${encodeURIComponent(dataset)}/disasterTrendAnalyzer.json`)).then((r) => r.ok ? r.json() : []),
+      fetch(withBasePath(`/data/${encodeURIComponent(dataset)}/analysisSummary.json`)).then((r) => r.ok ? r.json() : null),
+    ])
+      .then(([trendsData, summaryData]) => {
+        setTrendData(trendsData || []);
+        setSummary(summaryData || null);
       })
       .catch(() => {})
       .finally(() => setLoading(false));
@@ -110,69 +113,89 @@ export default function TrendAnalysisPage() {
             <h2 className="mb-6 text-xs font-bold uppercase tracking-widest text-foreground">
               Event Timeline
             </h2>
-            <div className="flex items-end gap-2" style={{ height: 200 }}>
-              {trendData.map((point, index) => {
-                const height = (point.eventCount / maxEvents) * 100;
-                const totalForDay =
-                  point.severityBreakdown.red +
-                  point.severityBreakdown.orange +
-                  point.severityBreakdown.green;
-                const redPct =
-                  totalForDay > 0
-                    ? (point.severityBreakdown.red / totalForDay) * 100
-                    : 0;
-                const orangePct =
-                  totalForDay > 0
-                    ? (point.severityBreakdown.orange / totalForDay) * 100
-                    : 0;
+            <div className="overflow-x-auto rounded-lg scrollbar-thin">
+              <div
+                className="flex items-end gap-[2px]"
+                style={{
+                  height: 200,
+                  minWidth:
+                    trendData.length > 30
+                      ? `${trendData.length * 18}px`
+                      : "100%",
+                }}
+              >
+                {trendData.map((point, index) => {
+                  const height = (point.eventCount / maxEvents) * 100;
+                  const totalForDay =
+                    point.severityBreakdown.red +
+                    point.severityBreakdown.orange +
+                    point.severityBreakdown.green;
+                  const redPct =
+                    totalForDay > 0
+                      ? (point.severityBreakdown.red / totalForDay) * 100
+                      : 0;
+                  const orangePct =
+                    totalForDay > 0
+                      ? (point.severityBreakdown.orange / totalForDay) * 100
+                      : 0;
 
-                return (
-                  <div
-                    key={point.date}
-                    className="group relative flex flex-1 flex-col items-center"
-                  >
+                  const labelStep = Math.max(
+                    1,
+                    Math.ceil(trendData.length / 40)
+                  );
+                  const showLabel = index % labelStep === 0;
+
+                  return (
                     <div
-                      className="relative w-full max-w-[48px] overflow-hidden rounded-t-md"
-                      style={{ height: `${height}%` }}
+                      key={point.date}
+                      className="group relative flex shrink-0 flex-col items-center"
+                      style={{ width: trendData.length > 30 ? 16 : undefined, flex: trendData.length <= 30 ? 1 : undefined }}
                     >
-                      <motion.div
-                        initial={{ height: 0 }}
-                        animate={{ height: "100%" }}
-                        transition={{
-                          delay: 0.3 + index * 0.05,
-                          duration: 0.5,
-                        }}
-                        className="absolute bottom-0 w-full"
+                      <div
+                        className="relative w-full overflow-hidden rounded-t-sm"
+                        style={{ height: `${height}%` }}
                       >
-                        <div
-                          className="w-full bg-severity-red"
-                          style={{ height: `${redPct}%` }}
-                        />
-                        <div
-                          className="w-full bg-severity-orange"
-                          style={{ height: `${orangePct}%` }}
-                        />
-                        <div
-                          className="w-full bg-severity-green"
-                          style={{
-                            height: `${100 - redPct - orangePct}%`,
+                        <motion.div
+                          initial={{ height: 0 }}
+                          animate={{ height: "100%" }}
+                          transition={{
+                            delay: Math.min(0.3 + index * 0.01, 1.5),
+                            duration: 0.4,
                           }}
-                        />
-                      </motion.div>
-                    </div>
-                    <p className="mt-2 font-mono text-[10px] text-muted">
-                      {point.date.slice(5)}
-                    </p>
+                          className="absolute bottom-0 w-full"
+                        >
+                          <div
+                            className="w-full bg-severity-red"
+                            style={{ height: `${redPct}%` }}
+                          />
+                          <div
+                            className="w-full bg-severity-orange"
+                            style={{ height: `${orangePct}%` }}
+                          />
+                          <div
+                            className="w-full bg-severity-green"
+                            style={{
+                              height: `${100 - redPct - orangePct}%`,
+                            }}
+                          />
+                        </motion.div>
+                      </div>
+                      {showLabel && (
+                        <p className="mt-2 font-mono text-[10px] text-muted whitespace-nowrap">
+                          {point.date.slice(5)}
+                        </p>
+                      )}
 
-                    {/* Tooltip */}
-                    <div className="pointer-events-none absolute -top-12 left-1/2 z-10 hidden -translate-x-1/2 rounded-lg border border-card-border bg-card-bg px-3 py-1.5 shadow-lg group-hover:block">
-                      <p className="font-mono text-xs font-bold text-accent">
-                        {point.eventCount} events
-                      </p>
+                      {/* Tooltip */}
+                      <div className="pointer-events-none absolute -top-12 left-1/2 z-10 hidden -translate-x-1/2 whitespace-nowrap rounded-lg border border-card-border bg-card-bg px-3 py-1.5 shadow-lg group-hover:block">
+                        <p className="font-mono text-xs font-bold text-accent">
+                          {point.eventCount} events — {point.date}
+                        </p>
+                      </div>
                     </div>
-                  </div>
-                );
-              })}
+                  );
+                })}
+              </div>
             </div>
             <div className="mt-4 flex items-center gap-4 font-mono text-[10px] uppercase tracking-widest text-muted">
               <span className="flex items-center gap-1.5">

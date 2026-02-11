@@ -1,0 +1,2725 @@
+[
+  {
+    "region": "Chile",
+    "eventCount": 829,
+    "highestSeverity": "red",
+    "riskScore": 97,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Peru",
+    "eventCount": 368,
+    "highestSeverity": "red",
+    "riskScore": 96,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Papua New Guinea",
+    "eventCount": 837,
+    "highestSeverity": "red",
+    "riskScore": 95,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "American Samoa",
+    "eventCount": 5,
+    "highestSeverity": "red",
+    "riskScore": 95,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Indonesia",
+    "eventCount": 2391,
+    "highestSeverity": "red",
+    "riskScore": 94,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "India",
+    "eventCount": 318,
+    "highestSeverity": "red",
+    "riskScore": 94,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "El Salvador",
+    "eventCount": 129,
+    "highestSeverity": "red",
+    "riskScore": 94,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Nepal",
+    "eventCount": 58,
+    "highestSeverity": "red",
+    "riskScore": 94,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Philippines",
+    "eventCount": 579,
+    "highestSeverity": "red",
+    "riskScore": 93,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Afghanistan",
+    "eventCount": 131,
+    "highestSeverity": "red",
+    "riskScore": 93,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Pakistan",
+    "eventCount": 95,
+    "highestSeverity": "red",
+    "riskScore": 93,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Japan",
+    "eventCount": 1409,
+    "highestSeverity": "red",
+    "riskScore": 92,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Greece",
+    "eventCount": 768,
+    "highestSeverity": "red",
+    "riskScore": 92,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "China",
+    "eventCount": 527,
+    "highestSeverity": "red",
+    "riskScore": 92,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tajikistan",
+    "eventCount": 77,
+    "highestSeverity": "red",
+    "riskScore": 92,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Argentina",
+    "eventCount": 245,
+    "highestSeverity": "red",
+    "riskScore": 91,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Iran",
+    "eventCount": 240,
+    "highestSeverity": "red",
+    "riskScore": 91,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Congo",
+    "eventCount": 9,
+    "highestSeverity": "red",
+    "riskScore": 89,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Canada",
+    "eventCount": 131,
+    "highestSeverity": "orange",
+    "riskScore": 84,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cuba",
+    "eventCount": 8,
+    "highestSeverity": "orange",
+    "riskScore": 84,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Indian Ocean",
+    "eventCount": 5,
+    "highestSeverity": "orange",
+    "riskScore": 84,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Russian Federation",
+    "eventCount": 315,
+    "highestSeverity": "orange",
+    "riskScore": 83,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Sumatera",
+    "eventCount": 5,
+    "highestSeverity": "orange",
+    "riskScore": 83,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "United States",
+    "eventCount": 1136,
+    "highestSeverity": "orange",
+    "riskScore": 82,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Vanuatu",
+    "eventCount": 472,
+    "highestSeverity": "orange",
+    "riskScore": 82,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Turkmenistan",
+    "eventCount": 20,
+    "highestSeverity": "orange",
+    "riskScore": 82,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Vanuatu Islands",
+    "eventCount": 17,
+    "highestSeverity": "orange",
+    "riskScore": 82,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Guatemala",
+    "eventCount": 148,
+    "highestSeverity": "orange",
+    "riskScore": 81,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Italy",
+    "eventCount": 112,
+    "highestSeverity": "orange",
+    "riskScore": 80,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Albania",
+    "eventCount": 41,
+    "highestSeverity": "orange",
+    "riskScore": 80,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Morocco",
+    "eventCount": 32,
+    "highestSeverity": "orange",
+    "riskScore": 80,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Croatia",
+    "eventCount": 13,
+    "highestSeverity": "orange",
+    "riskScore": 80,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mexico",
+    "eventCount": 402,
+    "highestSeverity": "orange",
+    "riskScore": 79,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Ecuador",
+    "eventCount": 97,
+    "highestSeverity": "orange",
+    "riskScore": 79,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Panama",
+    "eventCount": 74,
+    "highestSeverity": "orange",
+    "riskScore": 79,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "T\u00fcrkiye",
+    "eventCount": 448,
+    "highestSeverity": "orange",
+    "riskScore": 78,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Colombia",
+    "eventCount": 135,
+    "highestSeverity": "orange",
+    "riskScore": 78,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Myanmar",
+    "eventCount": 99,
+    "highestSeverity": "orange",
+    "riskScore": 78,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Algeria",
+    "eventCount": 44,
+    "highestSeverity": "orange",
+    "riskScore": 78,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mozambique",
+    "eventCount": 14,
+    "highestSeverity": "orange",
+    "riskScore": 78,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Iraq",
+    "eventCount": 13,
+    "highestSeverity": "orange",
+    "riskScore": 78,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "France",
+    "eventCount": 26,
+    "highestSeverity": "orange",
+    "riskScore": 77,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bangladesh",
+    "eventCount": 8,
+    "highestSeverity": "orange",
+    "riskScore": 77,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bosnia & Herzegovina",
+    "eventCount": 8,
+    "highestSeverity": "orange",
+    "riskScore": 77,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Ethiopia",
+    "eventCount": 13,
+    "highestSeverity": "orange",
+    "riskScore": 76,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Uganda",
+    "eventCount": 6,
+    "highestSeverity": "orange",
+    "riskScore": 76,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Mariana Islands",
+    "eventCount": 119,
+    "highestSeverity": "green",
+    "riskScore": 74,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Fiji Islands",
+    "eventCount": 91,
+    "highestSeverity": "green",
+    "riskScore": 74,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bonin Islands",
+    "eventCount": 34,
+    "highestSeverity": "green",
+    "riskScore": 74,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "New Zealand",
+    "eventCount": 187,
+    "highestSeverity": "green",
+    "riskScore": 73,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Fiji Islands Region",
+    "eventCount": 55,
+    "highestSeverity": "green",
+    "riskScore": 73,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mariana Islands Region",
+    "eventCount": 28,
+    "highestSeverity": "green",
+    "riskScore": 73,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Honduras",
+    "eventCount": 24,
+    "highestSeverity": "green",
+    "riskScore": 73,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Martinique",
+    "eventCount": 12,
+    "highestSeverity": "green",
+    "riskScore": 73,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tonga",
+    "eventCount": 622,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "New Caledonia",
+    "eventCount": 95,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Georgia & the South Sandwich Is.",
+    "eventCount": 71,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kermadec Islands",
+    "eventCount": 44,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Of Ascension Island",
+    "eventCount": 11,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Falkland Islands (Malvinas)",
+    "eventCount": 7,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Taiwan Region",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 72,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Solomon Islands",
+    "eventCount": 170,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Georgia and the South Sandwich Islands",
+    "eventCount": 141,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Svalbard and Jan Mayen",
+    "eventCount": 22,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Wallis and Futuna",
+    "eventCount": 20,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mauritius",
+    "eventCount": 17,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Brazil",
+    "eventCount": 15,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "West Of Macquarie Island",
+    "eventCount": 13,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "East Of South Sandwich Islands",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 71,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Russia",
+    "eventCount": 553,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Fiji",
+    "eventCount": 333,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Samoa",
+    "eventCount": 111,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bolivia",
+    "eventCount": 76,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Yemen",
+    "eventCount": 53,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Central Mid-Atlantic Ridge",
+    "eventCount": 42,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kyrgyzstan",
+    "eventCount": 29,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Mid-Atlantic Ridge",
+    "eventCount": 28,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Wallis & Futuna",
+    "eventCount": 26,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southeast Of Honshu",
+    "eventCount": 22,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tonga Islands",
+    "eventCount": 20,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southeast Indian Ridge",
+    "eventCount": 14,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mariana Islands",
+    "eventCount": 13,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Norway",
+    "eventCount": 11,
+    "highestSeverity": "green",
+    "riskScore": 70,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Guam",
+    "eventCount": 131,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Iceland",
+    "eventCount": 89,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Costa Rica",
+    "eventCount": 78,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kermadec Islands Region",
+    "eventCount": 65,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Mid-Atlantic Ridge",
+    "eventCount": 56,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Antarctica",
+    "eventCount": 44,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mindanao",
+    "eventCount": 34,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern East Pacific Rise",
+    "eventCount": 24,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Volcano Islands",
+    "eventCount": 23,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Pacific-Antarctic Ridge",
+    "eventCount": 22,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Africa",
+    "eventCount": 21,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Palau",
+    "eventCount": 16,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "British Indian Ocean Territory",
+    "eventCount": 15,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "West Chile Rise",
+    "eventCount": 15,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Africa",
+    "eventCount": 9,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Balleny Islands Region",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cayman Islands",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Chiapas",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 69,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Solomon Is.",
+    "eventCount": 135,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Nicaragua",
+    "eventCount": 84,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Venezuela",
+    "eventCount": 52,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Reykjanes Ridge",
+    "eventCount": 51,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Mariana Is.",
+    "eventCount": 49,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Kermadec Islands",
+    "eventCount": 41,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Dominican Republic",
+    "eventCount": 39,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Romania",
+    "eventCount": 38,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Central East Pacific Rise",
+    "eventCount": 26,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mid-Indian Ridge",
+    "eventCount": 26,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Puerto Rico",
+    "eventCount": 21,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Australia",
+    "eventCount": 18,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kazakhstan",
+    "eventCount": 17,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Western Indian-Antarctic Ridge",
+    "eventCount": 16,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Timor-Leste",
+    "eventCount": 15,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Fox Islands",
+    "eventCount": 14,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tanzania",
+    "eventCount": 14,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southwest Indian Ridge",
+    "eventCount": 12,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southeast Of Easter Island",
+    "eventCount": 11,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Uzbekistan",
+    "eventCount": 11,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Dominica",
+    "eventCount": 9,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern East Pacfic Rise",
+    "eventCount": 9,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Tonga Islands",
+    "eventCount": 8,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off E. Coast Of N. Island",
+    "eventCount": 7,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Atlantic Ocean",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Christmas Island",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tonga Islands Region",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Hindu Kush Region",
+    "eventCount": 4,
+    "highestSeverity": "orange",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Philippine Islands Region",
+    "eventCount": 3,
+    "highestSeverity": "orange",
+    "riskScore": 68,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Portugal",
+    "eventCount": 84,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Spain",
+    "eventCount": 50,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Georgia / South Sandwich Islands",
+    "eventCount": 33,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Carlsberg Ridge",
+    "eventCount": 30,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Jan Mayen",
+    "eventCount": 20,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mongolia",
+    "eventCount": 15,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Sandwich Islands Region",
+    "eventCount": 15,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Azerbaijan",
+    "eventCount": 14,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Guadeloupe",
+    "eventCount": 14,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "New Britain Region",
+    "eventCount": 10,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Georgia",
+    "eventCount": 9,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Central Chile",
+    "eventCount": 9,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Federated States of Micronesia",
+    "eventCount": 7,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Indian Ocean Triple Junction",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 67,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Taiwan",
+    "eventCount": 43,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mayotte",
+    "eventCount": 24,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Islamic Republic of Iran",
+    "eventCount": 22,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Svalbard",
+    "eventCount": 12,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near East Coast Of Honshu",
+    "eventCount": 10,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Barbados",
+    "eventCount": 8,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kuril Islands",
+    "eventCount": 8,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Central America",
+    "eventCount": 8,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Christmas I.",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Germany",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Santa Cruz Islands",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Saudi Arabia",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Afghanistan-Tajikistan Bord Reg.",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Anguilla",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Greenland",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 66,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Poland",
+    "eventCount": 40,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Somalia",
+    "eventCount": 18,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Former Yugoslav Republic of Macedonia",
+    "eventCount": 16,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "British Virgin Is.",
+    "eventCount": 10,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Molucca Sea",
+    "eventCount": 10,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cyprus",
+    "eventCount": 9,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bosnia and Herzegovina",
+    "eventCount": 7,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Djibouti",
+    "eventCount": 7,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Haiti",
+    "eventCount": 7,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Antigua and Barbuda",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Iran-Iraq Border Region",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Sumatera",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "United Kingdom",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "W. Caroline Islands",
+    "eventCount": 6,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Andreanof Islands",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Hokkaido",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Libya",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Ryukyu Islands",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Virgin Islands",
+    "eventCount": 5,
+    "highestSeverity": "green",
+    "riskScore": 65,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bulgaria",
+    "eventCount": 27,
+    "highestSeverity": "green",
+    "riskScore": 64,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southwestern Ryukyu Isl.",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 62,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Ascension Island Region",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 60,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southeast Of Loyalty Islands",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 60,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bhutan",
+    "eventCount": 3,
+    "highestSeverity": "orange",
+    "riskScore": 60,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Central Peru",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 59,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Oman",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 59,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "San Juan Province",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 59,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Egypt",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 58,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Central Chile",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 58,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Iran",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 58,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Eastern New Guinea Reg.",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 57,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Minahassa Peninsula",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 57,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Northern Chile",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 57,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Chile",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 57,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Trinidad & Tobago",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 57,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "West Of Galapagos Islands",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 57,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "British Virgin Islands",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 56,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off East Coast Of Honshu",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 56,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Serbia & Montenegro",
+    "eventCount": 4,
+    "highestSeverity": "green",
+    "riskScore": 55,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cocos (Keeling) Islands",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 54,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Greenland Sea",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 53,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near S. Coast Of Honshu",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 53,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Of Franz Josef Land",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 52,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Atlantic Ocean",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 52,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Dodecanese Islands",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 51,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Shetland Islands",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 51,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Xinjiang",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 51,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Andaman Islands",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Antigua & Barbuda",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Irian Jaya Region",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kamchatka Peninsula",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Malaysia",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Maldives",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mindoro",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Myanmar-India Border Region",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Mariana Islands",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "St. Helena",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Sunda Strait",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Timor Leste",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Trinidad and Tobago",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Xizang",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 50,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Banda Sea",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Eastern Siberia",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Flores Sea",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Jamaica",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Juan De Nova I.",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near N Coast Of New Guinea",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Island",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off W Coast Of Northern Sumatera",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 49,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Chile-Argentina Border Region",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 48,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Czech Republic",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 48,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Hungary",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 48,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Laos",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 48,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Montenegro",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 48,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "The Bahamas",
+    "eventCount": 3,
+    "highestSeverity": "green",
+    "riskScore": 48,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Alaska Peninsula",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 45,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Alaska",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 45,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "New Guinea",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 44,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Of Severnaya Zemlya",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 44,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Oregon",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 44,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Crete",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Komandorsky Islands Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Mauritius - Reunion Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Miscellaneous (French) Indian Ocean Islands",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Niue",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Indian Ocean",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Southern Chile",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Pacific Ocean",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 43,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "E. Caroline Islands",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Flores Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Madagascar",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Malawi",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Guatemala",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Nicaragua",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Northern California",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Peru-Brazil Border Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Santiago Del Estero Prov.",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Scotia Sea",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 42,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Chile-Bolivia Border Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "East Of North Island",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Eastern Sea Of Japan",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Java",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kyushu",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Leeward Islands",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Venezuela",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern And Central Iran",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off East Coast Of Kamchatka",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Sudan",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Timor Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Vietnam",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Auckland Islands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 41,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bismarck Sea",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Galapagos Triple Jungtion Region",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Malta",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Peru",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near North Coast Of Irian Jaya",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Korea",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Of Svalbard",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Panama",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southeastern Alaska",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southwestern Pakistan",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Talaud Islands",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Virgin Islands  U.S.",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 40,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Democratic Republic of the Congo",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 39,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Switzerland",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 39,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Syria",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 39,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Virgin Is.",
+    "eventCount": 2,
+    "highestSeverity": "green",
+    "riskScore": 39,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Bali Sea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 36,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Zambia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 36,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cook Islands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 35,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Guyana",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 35,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "North Of Macquarie Island",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 35,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Norwegian Sea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 35,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Prince Edward Islands Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 35,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Argentina",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 35,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Eastern Caucasus",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "French Southern & Antarctic Lands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Glorioso Is.",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Gulf Of California",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Line Islands Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "New Ireland Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Colombia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Territory",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Panama-Colombia Border Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Republic of Korea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southeastern Siberia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Sumbawa Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tanimbar Islands Reg.",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "The Democratic Republic of Congo",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 34,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "-1",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Angola",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Burundi",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cape Verde",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Central Alaska",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Chagos Archipelago Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cocos Is.",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cook Is.",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Drake Passage",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "French Southern and Antarctic Lands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Halmahera",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Hawaii",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "India-Bangladesh Border Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Kenya",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Korea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Luzon",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Namibia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Jalisco",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near East Coast Of Kamchatka",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near N. Coast Of Eastern Siberia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Nicobar Islands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northwest Of Ryukyu Islands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Seychelles",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Korea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Strait Of Gibraltar",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Turkmenistan-Iran Border Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Vancouver Island",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Vanuatu Islands Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Viet Nam",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Western Texas",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 33,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Aru Islands Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Aruba",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Borneo",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Central Mediterranean Sea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Cook Strait",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Democratic Republic Of Congo",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Easter Island Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Eastern Greenland",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Error: .NET Framework execution was aborted by escalation policy because of out of memory.",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Grenada",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Iceland Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Irian Jaya",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Jan Mayen Island Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Laptev Sea",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Myanmar-China Border Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Ecuador",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Guerrero",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Oaxaca",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near Coast Of Oregon",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Near S. Coast Of Western Honshu",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Alaska",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northern Algeria",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northwestern Balkan Region",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Northwestern Kashmir",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Costa Rica",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Off Coast Of Peru",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Primor'ye",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Salta Province",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Serbia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Alaska",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "South Of Java",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Bolivia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Italy",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southern Peru",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Southwest Of Sumatera",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "St. Vincent & the Grenadines",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Syrian Arab Republic",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Ukraine",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Western Brazil",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Western Sahara",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Yugoslavia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 32,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Faroe Islands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 31,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Null",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 31,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Slovenia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 31,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Sweden",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 31,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Turks and Caicos Islands",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 31,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Virgin Islands  British",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 31,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Faroe Is.",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 30,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Israel",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 30,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Tunisia",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 30,
+    "dominantDisasterType": "Earthquake"
+  },
+  {
+    "region": "Zimbabwe",
+    "eventCount": 1,
+    "highestSeverity": "green",
+    "riskScore": 30,
+    "dominantDisasterType": "Earthquake"
+  }
+]

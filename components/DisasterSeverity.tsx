@@ -37,7 +37,7 @@ export default function DisasterSeverity({
         { label: "Event Type", value: event.eventType },
       ]}
       lastUpdated={event.date}
-      href={`/disaster/${event.id}`}
+      href={`/disaster?id=${event.id}`}
       status={status}
     />
   );

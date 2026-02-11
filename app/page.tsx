@@ -14,6 +14,7 @@ import {
   AnalysisSummary,
   DatasetPayload,
 } from "@/lib/types";
+import { withBasePath } from "@/lib/config";
 
 export default function Dashboard() {
   const [activeDataset, setActiveDataset] = useState<string | null>(null);
@@ -27,10 +28,32 @@ export default function Dashboard() {
   const loadDataset = useCallback(async (datasetName: string) => {
     setLoading(true);
     try {
-      const res = await fetch(
-        `/api/clean-datasets/${encodeURIComponent(datasetName)}`
+      const files = [
+        "analysisSummary",
+        "disasterSeverity",
+        "regionalRiskHeatmap",
+        "disasterTrendAnalyzer",
+        "recentEvents",
+      ];
+      const results = await Promise.all(
+        files.map((f) =>
+          fetch(
+            withBasePath(
+              `/data/${encodeURIComponent(datasetName)}/${f}.json`
+            )
+          )
+            .then((r) => (r.ok ? r.json() : null))
+            .catch(() => null)
+        )
       );
-      const data: DatasetPayload = await res.json();
+      const data: DatasetPayload = {
+        dataset: datasetName,
+        analysisSummary: results[0],
+        disasterSeverity: results[1],
+        regionalRiskHeatmap: results[2],
+        disasterTrendAnalyzer: results[3],
+        recentEvents: results[4],
+      };
 
       setSummary(data.analysisSummary);
       setEvents(data.disasterSeverity || []);
@@ -54,7 +77,7 @@ export default function Dashboard() {
     if (saved) {
       loadDataset(saved);
     } else {
-      fetch("/api/clean-datasets")
+      fetch(withBasePath("/data/datasets.json"))
         .then((res) => res.json())
         .then((data) => {
           const datasets = data.datasets || [];

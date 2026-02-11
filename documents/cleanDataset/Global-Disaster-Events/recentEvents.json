@@ -1,0 +1,212 @@
+[
+  {
+    "id": "EV020265",
+    "eventName": "Green M 5.2 Earthquake in Japan at: 30 Jun 2025 09:33:22.",
+    "country": "Japan",
+    "alertLevel": "green",
+    "populationExposed": "0",
+    "eventType": "Earthquake",
+    "aiSummary": "A moderate M5.2 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 29.3206,
+      "lng": 129.392
+    }
+  },
+  {
+    "id": "EV020261",
+    "eventName": "Green M 5.1 Earthquake in Vanuatu at: 30 Jun 2025 23:48:45.",
+    "country": "Vanuatu",
+    "alertLevel": "green",
+    "populationExposed": "30 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A moderate M5.1 earthquake occurred in Vanuatu on 2025-06-30 at intermediate depth with approximately 30 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": -17.4974,
+      "lng": 167.9268
+    }
+  },
+  {
+    "id": "EV020264",
+    "eventName": "Green M 5.1 Earthquake off-shore at: 30 Jun 2025 12:12:51.",
+    "country": "",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Earthquake",
+    "aiSummary": "A moderate M5.1 earthquake occurred in offshore location on 2025-06-30 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": -61.0001,
+      "lng": -38.5006
+    }
+  },
+  {
+    "id": "EV020272",
+    "eventName": "Green M 5.1 Earthquake in India at: 30 Jun 2025 04:39:02.",
+    "country": "India",
+    "alertLevel": "green",
+    "populationExposed": "0",
+    "eventType": "Earthquake",
+    "aiSummary": "A moderate M5.1 earthquake occurred in India on 2025-06-30 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 9.4396,
+      "lng": 93.9794
+    }
+  },
+  {
+    "id": "EV020270",
+    "eventName": "Green M 5 Earthquake in India at: 30 Jun 2025 05:52:21.",
+    "country": "India",
+    "alertLevel": "green",
+    "populationExposed": "0",
+    "eventType": "Earthquake",
+    "aiSummary": "A moderate M5.0 earthquake occurred in India on 2025-06-30 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 9.3885,
+      "lng": 93.9149
+    }
+  },
+  {
+    "id": "EV020263",
+    "eventName": "Green M 4.9 Earthquake off-shore at: 30 Jun 2025 14:35:09.",
+    "country": "",
+    "alertLevel": "green",
+    "populationExposed": "Unknown",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.9 earthquake occurred in offshore location on 2025-06-30 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": -61.0502,
+      "lng": -38.6954
+    }
+  },
+  {
+    "id": "EV020269",
+    "eventName": "Green M 4.9 Earthquake in India at: 30 Jun 2025 06:36:21.",
+    "country": "India",
+    "alertLevel": "green",
+    "populationExposed": "0",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.9 earthquake occurred in India on 2025-06-30 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 9.3301,
+      "lng": 93.9257
+    }
+  },
+  {
+    "id": "EV020271",
+    "eventName": "Green M 4.7 Earthquake in Indonesia at: 30 Jun 2025 05:34:23.",
+    "country": "Indonesia",
+    "alertLevel": "green",
+    "populationExposed": "70 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.7 earthquake occurred in Indonesia on 2025-06-30 at intermediate depth with approximately 70 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 2.0894,
+      "lng": 126.7192
+    }
+  },
+  {
+    "id": "EV020273",
+    "eventName": "Green M 4.7 Earthquake in Japan at: 30 Jun 2025 03:36:19.",
+    "country": "Japan",
+    "alertLevel": "green",
+    "populationExposed": "40 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.7 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 40 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 29.2747,
+      "lng": 129.4036
+    }
+  },
+  {
+    "id": "EV020274",
+    "eventName": "Green M 4.7 Earthquake in Afghanistan at: 30 Jun 2025 02:32:40.",
+    "country": "Afghanistan",
+    "alertLevel": "green",
+    "populationExposed": "1.1 Million",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.7 earthquake occurred in Afghanistan on 2025-06-30 with approximately 1.1 Million people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 36.9444,
+      "lng": 71.2404
+    }
+  },
+  {
+    "id": "EV020262",
+    "eventName": "Green M 4.6 Earthquake in Japan at: 30 Jun 2025 15:22:27.",
+    "country": "Japan",
+    "alertLevel": "green",
+    "populationExposed": "10 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.6 earthquake occurred in Japan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 10 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 29.2972,
+      "lng": 129.3956
+    }
+  },
+  {
+    "id": "EV020266",
+    "eventName": "Green M 4.5 Earthquake in Peru at: 30 Jun 2025 08:44:07.",
+    "country": "Peru",
+    "alertLevel": "green",
+    "populationExposed": "510 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.5 earthquake occurred in Peru on 2025-06-30 with approximately 510 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": -12.749,
+      "lng": -73.9123
+    }
+  },
+  {
+    "id": "EV020267",
+    "eventName": "Green M 4.5 Earthquake in Taiwan at: 30 Jun 2025 08:22:46.",
+    "country": "Taiwan",
+    "alertLevel": "green",
+    "populationExposed": "40 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.5 earthquake occurred in Taiwan on 2025-06-30 at shallow depth, increasing potential surface damage with approximately 40 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": 23.2175,
+      "lng": 120.4075
+    }
+  },
+  {
+    "id": "EV020268",
+    "eventName": "Green M 4.5 Earthquake in Chile at: 30 Jun 2025 08:12:28.",
+    "country": "Chile",
+    "alertLevel": "green",
+    "populationExposed": "150 Thousand",
+    "eventType": "Earthquake",
+    "aiSummary": "A light M4.5 earthquake occurred in Chile on 2025-06-30 at intermediate depth with approximately 150 Thousand people within 100 km of the epicenter.",
+    "date": "2025-06-30",
+    "coordinates": {
+      "lat": -31.9581,
+      "lng": -71.3942
+    }
+  },
+  {
+    "id": "EV020282",
+    "eventName": "Green M 5.2 Earthquake in Japan at: 29 Jun 2025 07:11:56.",
+    "country": "Japan",
+    "alertLevel": "green",
+    "populationExposed": "0",
+    "eventType": "Earthquake",
+    "aiSummary": "A moderate M5.2 earthquake occurred in Japan on 2025-06-29 at shallow depth, increasing potential surface damage.",
+    "date": "2025-06-29",
+    "coordinates": {
+      "lat": 29.3697,
+      "lng": 129.4395
+    }
+  }
+]

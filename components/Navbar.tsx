@@ -11,6 +11,7 @@ import {
   Loader2,
 } from "lucide-react";
 import { CleanDataset } from "@/lib/types";
+import { withBasePath } from "@/lib/config";
 
 interface NavbarProps {
   onDatasetSelect: (datasetName: string) => void;
@@ -30,7 +31,7 @@ export default function Navbar({
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    fetch("/api/clean-datasets")
+    fetch(withBasePath("/data/datasets.json"))
       .then((res) => res.json())
       .then((data) => setDatasets(data.datasets || []))
       .catch(() => setDatasets([]));
@@ -128,25 +129,25 @@ export default function Navbar({
                           <button
                             key={dataset.name}
                             onClick={() => handleDatasetSelect(dataset.name)}
-                            className={`flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-left transition-all duration-150 ${
+                            className={`group flex w-full cursor-pointer items-center gap-3 rounded-lg px-3 py-2.5 text-left transition-all duration-150 ${
                               isActive
                                 ? "bg-accent/10 border border-accent/20"
-                                : "hover:bg-surface border border-transparent"
+                                : "border border-transparent hover:border-accent/15 hover:bg-accent/5 hover:shadow-[0_0_12px_rgba(0,229,255,0.06)]"
                             }`}
                           >
                             <div
-                              className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-md ${
+                              className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-md transition-colors duration-150 ${
                                 isActive
                                   ? "bg-accent/20 text-accent"
-                                  : "bg-surface text-muted"
+                                  : "bg-surface text-muted group-hover:bg-accent/10 group-hover:text-accent"
                               }`}
                             >
                               <FileSpreadsheet className="h-4 w-4" />
                             </div>
                             <div className="min-w-0 flex-1">
                               <p
-                                className={`truncate text-xs font-semibold ${
-                                  isActive ? "text-accent" : "text-foreground"
+                                className={`truncate text-xs font-semibold transition-colors duration-150 ${
+                                  isActive ? "text-accent" : "text-foreground group-hover:text-accent"
                                 }`}
                               >
                                 {dataset.name}

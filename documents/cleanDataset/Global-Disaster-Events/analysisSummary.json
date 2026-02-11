@@ -1,0 +1,29 @@
+{
+  "headline": "25-Year Global Earthquake Record: 20,290 Seismic Events Across 389 Regions with 41 Critical-Level Disasters",
+  "summary": "This comprehensive dataset captures global earthquake activity from January 2000 through June 2025, documenting over 20,000 seismic events across 389 distinct regions. The data reveals 41 red-alert (critical) earthquakes and 193 orange-alert (elevated) events, with the most devastating being the M8.8 earthquake in Chile (2010) affecting 12.4 million people. Indonesia, Japan, the United States, Papua New Guinea, and Chile emerge as the most seismically active regions.",
+  "severityLevel": "red",
+  "keyInsights": [
+    "Indonesia leads with 2,391 earthquake events (11.8% of all events), followed by Japan (1,409) and the United States (1,136), forming the 'Ring of Fire' dominance pattern.",
+    "The M8.8 Chile earthquake (Feb 2010) was the most powerful recorded event, exposing 12.4 million people, while the M7.8 Nepal earthquake (2015) affected 5.4 million in a densely populated region.",
+    "Seismic activity peaked between 2007-2011 with over 1,100 events annually, followed by a gradual decline to fewer than 200 events per year in 2022-2025, likely reflecting changes in monitoring thresholds rather than reduced activity.",
+    "Of the 41 red-alert earthquakes, 78% occurred in the Pacific Ring of Fire nations (Chile, Japan, Indonesia, Philippines, Papua New Guinea), confirming persistent tectonic hazard concentration.",
+    "98.8% of all events are classified as green (advisory) level, but the 234 elevated-or-higher events collectively exposed tens of millions of people to significant seismic hazard."
+  ],
+  "riskScore": "97/100",
+  "generatedAt": "2026-02-11T05:48:00Z",
+  "metadata": {
+    "totalEvents": 20290,
+    "dateRange": {
+      "from": "2000-01-19",
+      "to": "2025-06-30"
+    },
+    "eventTypes": {
+      "Earthquake": 20290
+    },
+    "severityDistribution": {
+      "red": 41,
+      "orange": 193,
+      "green": 20056
+    }
+  }
+}
