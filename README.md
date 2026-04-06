@@ -1,6 +1,8 @@
 # Risk Intelligence Dashboard
 
-![Risk Intelligence Dashboard](public/images/dashboard-page.png)
+[![Risk Intelligence Dashboard](public/images/dashboard-page.png)](https://syedmhdarif.github.io/Risk-intelligence-dashboard/)
+
+**[View Live Demo](https://syedmhdarif.github.io/Risk-intelligence-dashboard/)**
 
 A real-time global disaster monitoring and intelligence platform that analyzes, visualizes, and tracks disaster events across regions worldwide. Built with Next.js and powered by an automated data processing pipeline.
 
